@@ -10,10 +10,25 @@ public class Baekjoon10817 {
         // TODO Auto-generated method stub
         Scanner input = new Scanner(System.in);
 
-        int a = input.nextInt();
-        int b = input.nextInt();
-        int c = input.nextInt();
-        int second = 0;
+        int[] arr = new int[3];
+        int temp;
+
+        for(int i = 0 ; i< arr.length; i++){
+            arr[i] = input.nextInt();
+        }
+
+        for(int i = 0; i < arr.length; i++){
+            for(int j = 0; j < arr.length; j++){
+                if(arr[i] > arr[j]){
+                    temp = arr[i];
+                    arr[i] = arr[j];
+                    arr[j] = temp;
+                }
+            }
+        }
+
+            System.out.println(arr[1]);
+
 
 
 
