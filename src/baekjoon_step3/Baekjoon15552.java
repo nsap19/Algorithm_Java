@@ -16,12 +16,13 @@ public class Baekjoon15552 {
             int a = Integer.parseInt(st.nextToken()); //첫번째 호출
             int b = Integer.parseInt(st.nextToken()); //두번째 호출
 
+            bw.write(a+b+"\n");
+//            bw.flush();//남아있는 데이터를 모두 출력시킴 - 왜 시간초과의 사유인지 모르겠음
 
-            bw.write(a+b);
         }
-//        String s = "abcdefg";//출력할 문자열
-//        bw.write(s+"\n");//출력
         bw.flush();//남아있는 데이터를 모두 출력시킴
-        bw.close();//스트림을 닫음
+//        bw.close();//스트림을 닫음 - 왜 시간초과의 사유인지 모르겠음
+
+
     }
 }
