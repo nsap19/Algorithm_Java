@@ -11,23 +11,26 @@ public class Baekjoon1011 {
         for (int i = 0; i < t; i++) {
             long x = sc.nextInt();
             long y = sc.nextInt();
-            int n = 2; //공간이동 횟수 /처음과 끝 횟수는 1씩으로 정해져있으니 기본 2
+            long distance = y - x;
+            int n = 0; //공간이동 횟수
             long move = 1; //한 횟수당 이동 거리
-            long temp = x + 1; //현 위치
+            long temp = 0; //총 이동거리
 
-            while (temp < y - 1) {
-                if (temp + move + 1 <= y - 1) {
-                    temp += move + 1;
-                    move += 1;
-                } else if (temp + move <= y - 1) temp += move;
-                else if (temp + move - 1 <= y - 1) {
-                    temp += move - 1;
-                    move -= 1;
-                }
-                n++;
-//                System.out.print("temp:"+temp+" move:"+move);
+            while (temp < distance) {
+                n += 2;
+                temp += move * 2; //x와 y쪽 양쪽에서 같은 거리만큼 이동(처음 값은 1)
+
+//                System.out.print(temp+" "+move);
 //                System.out.println();
+
+                if (distance - temp >= move * 2) { //움직여야하는 남은 거리가 move보다 크다면
+                    move++;
+                } else if (distance - temp < move * 2 && distance - temp == move) {
+                    temp += move;
+                    n++;
+                }
             }
+
             result[i] = n;
 
         }
