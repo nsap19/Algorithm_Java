@@ -4,8 +4,8 @@ import java.util.ArrayList;
 
 public class Baekjoon4673_2 {
     public static void main(String[] args) {
-        ArrayList<Integer> numbers = new ArrayList<>(); //생성자가 있는 숫자들(!셀프넘버)을 저장
-        ArrayList<Integer> selfnumbers = new ArrayList<>(); //셀프넘버를 저장
+        ArrayList<Integer> numbers = new ArrayList<>(); //생성자가 있는 숫자들(!셀프넘버)을 저장 - d(n)을 돌렸을 때 나오는 것,n이 있는 값
+        ArrayList<Integer> selfnumbers = new ArrayList<>(); //셀프넘버를 저장 - d(n) 함수 결과에서 나오지 않은 수
 
 
         for (int n = 0; n < 10000; n++) { //생성자가 있는 숫자들을 구하여 numbers에 추가

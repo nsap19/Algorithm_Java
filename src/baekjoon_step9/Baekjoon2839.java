@@ -27,12 +27,12 @@ public class Baekjoon2839 {
                         break;
                     }
                 }
-                if (a == 0 && n % 3 == 0) {
+                if (a == 0 && n % 3 == 0) { //비효율적
                     b = n / 3;
                     result = b;
                     break;
                 }
-                if (a == 0 && n % 3 != 0) {
+                if (a == 0 && n % 3 != 0) { //비효율적
                     result = -1;
                     break;
                 }

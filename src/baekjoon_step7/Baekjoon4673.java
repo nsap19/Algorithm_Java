@@ -9,7 +9,7 @@ public class Baekjoon4673 {
         ArrayList<Integer> selfnumbers = new ArrayList<>(); //셀프넘버를 저장
 
 
-        for (int n = 0; d(n) < 10000; n++) {
+        for (int n = 0; d(n) < 10000; n++) { //이 부분이 틀린 것
             while (true) {
                 numbers.add(d(n));
 
@@ -19,7 +19,14 @@ public class Baekjoon4673 {
             }
         }
 
-        for (int i = 1; i < 10000; i++) { //이 범위가 잘못 된 것 같다
+        numbers.sort(null);
+
+        for (int value : numbers) {
+            System.out.print(value+" ");
+        }
+        System.out.println();
+
+        for (int i = 1; i < 10000; i++) {
             if (!numbers.contains(i)) {
                 selfnumbers.add(i);
             }
@@ -27,7 +34,7 @@ public class Baekjoon4673 {
         selfnumbers.sort(null);
 
         for (int value : selfnumbers) {
-            System.out.println(value);
+            System.out.print(value+" ");
         }
 
 
