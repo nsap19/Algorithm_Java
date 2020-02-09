@@ -13,22 +13,22 @@ public class Baekjoon1011 {
             long y = sc.nextInt();
             long distance = y - x;
             int n = 0; //공간이동 횟수
-            long move = 1; //한 횟수당 이동 거리
+            long move = 0; //한 횟수당 이동 거리
             long temp = 0; //총 이동거리
 
             while (temp < distance) {
-                n += 2;
-                temp += move * 2; //x와 y쪽 양쪽에서 같은 거리만큼 이동(처음 값은 1)
+                move++;
+                n++;
+                temp += move; //x쪽 먼저 move 만큼 이동
 
-//                System.out.print(temp+" "+move);
+                if (distance - temp > move) { //남은 거리가 move보다 크면 y쪽에서 move만큼 이동
+                    n++;
+                    temp += move;
+                }
+
+//                System.out.print(temp + " " + move);
 //                System.out.println();
 
-                if (distance - temp >= move * 2) { //움직여야하는 남은 거리가 move보다 크다면
-                    move++;
-                } else if (distance - temp < move * 2 && distance - temp == move) {
-                    temp += move;
-                    n++;
-                }
             }
 
             result[i] = n;
