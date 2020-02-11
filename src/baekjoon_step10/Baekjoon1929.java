@@ -1,6 +1,5 @@
 package baekjoon_step10;
 
-import java.util.ArrayList;
 import java.util.Scanner;
 
 public class Baekjoon1929 {
@@ -8,27 +7,22 @@ public class Baekjoon1929 {
         Scanner sc = new Scanner(System.in);
         int m = sc.nextInt(); //범위최솟값
         int n = sc.nextInt(); //범위최댓값
-        int sum = 0;
-        ArrayList<Integer> sosoo = new ArrayList<>();
+        boolean[] nums = new boolean[n + 1]; //초기값은 전체 false, 소수의 배수는 모두 true처리 할것임
+        int temp = 0; //배수를 돌릴 기준 ex) 1~120이면 11*11 >120이기 때문에 11보다 작은 수의 배수들만 지워도 충분하다
+
+        for (int i = 0; i < n; i++) {
+            if (i * i <= n) temp = i + 1;
+        }
+
+        for (int i = 2; i < temp; i++) {
+            for (int j = 2; i * j <= n; j++) {
+                nums[i * j] = true;
+            }
+        }
 
         for (int i = m; i <= n; i++) {
-            int check = 0; //약수 쌍의 갯수
-
-            for (int j = 1; j < i; j++) {
-                if (i % j == 0) check++; // 소수는 자신보다 작은 두 개의 자연수를 곱하여 만들 수 없는 1보다 큰 자연수
-            }
-            if (i > 1 && check == 1) { //1보다 크고, 약수가 1과 자기자신인 경우 = 소수
-                sosoo.add(i);
-            }
+            if (i > 1 && nums[i] == false) System.out.println(i);
         }
 
-        for (int i = 0; i < sosoo.size(); i++) {
-            sum += sosoo.get(i);
-        }
-        if (sosoo.size() == 0) System.out.println(-1);
-        else {
-            System.out.println(sum);
-            System.out.println(sosoo.get(0));
-        }
     }
 }
