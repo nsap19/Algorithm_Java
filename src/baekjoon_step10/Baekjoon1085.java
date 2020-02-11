@@ -1,5 +1,6 @@
 package baekjoon_step10;
 
+import java.util.Arrays;
 import java.util.Scanner;
 
 public class Baekjoon1085 {
@@ -9,20 +10,10 @@ public class Baekjoon1085 {
         int y = sc.nextInt();
         int w = sc.nextInt();
         int h = sc.nextInt();
-        int pita = (int) Math.sqrt(Math.pow(w - x, 2) + Math.pow(h - y, 2));
-        int len;
 
-//        len = (h - y < w-h)? h-y : ((w-h < (int)Math.pow(w - x, 2) + Math.pow(h - y, 2)))? w-h : (int)Math.sqrt(Math.pow(w - x, 2) + Math.pow(h - y, 2));
-        len = h - y;
+        int[] arr = {x, y, w - x, h - y};
+        Arrays.sort(arr);
 
-        if (len > w - x) {
-            if (w - x > pita)
-                len = pita;
-            else
-                len = w - x;
-        } else if (len > pita)
-            len = pita;
-
-        System.out.println(len);
+        System.out.println(arr[0]);
     }
 }
