@@ -1,6 +1,5 @@
 package baekjoon_step11;
 
-import java.util.Arrays;
 import java.util.Scanner;
 
 public class Baekjoon2447 {
@@ -8,40 +7,39 @@ public class Baekjoon2447 {
         Scanner sc = new Scanner(System.in);
 
         int n = sc.nextInt();
-        char[][] result = star(n);
+        String[][] result = star(n);
 
         for (int i = 0; i < n; i++) {
             for (int j = 0; j < n; j++) {
-                System.out.println(result[i][j]);
+                System.out.print(result[i][j]);
             }
+            System.out.println();
         }
     }
 
-    public static char[][] star(int n) {
-        int x = n;
-        int y = n;
-        char[][] arr = new char[x][y];
+    public static String[][] star(int n) {
+        String[][] arr;
 
-        if (Math.cbrt(n) == 1) {
+        if (n == 3) {
+            arr = new String[3][3];
             for (int i = 0; i < 3; i++) {
                 for (int j = 0; j < 3; j++) {
-                    if (i != 1 && j != 1) {
-                        arr[i][j] = '*';
-                    }
+                    if (i == 1 && j == 1) {
+                        arr[i][j] = " ";
+                    } else arr[i][j] = "*";
                 }
             }
             return arr;
         } else {
-            for (int i = 0; i < 3; i++) {
-                for (int j = 0; j < 3; j++) {
-                    if (i != 1 && j != 1) {
-                        arr[i][j] = ' ';
-                    }
+            arr = new String[n/3][n/3] ;
+            for (int i = 0; i < n/3; i++) {
+                for (int j = 0; j < n/3; j++) {
+                    if (i % 3 == 0 && j % 3 == 0) {
+                        arr[i][j] = "";
+                    } else arr = star(n / 3);
                 }
             }
-            return star(n / 3);
         }
-
-
+        return arr;
     }
 }
