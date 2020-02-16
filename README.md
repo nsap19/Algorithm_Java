@@ -104,4 +104,11 @@
    - 아직 준비중
   
 - #### 13단계 : 브루트 포스_ ~ ing
+   1. [**2798번**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/baekjoon_step13/Baekjoon2798.java>) : 블랙잭
+   2. [**2231번**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/baekjoon_step13/Baekjoon2231.java>) : 분해
+   3. [**7568번**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/baekjoon_step13/Baekjoon7568.java>) : 덩치
+   4. [**1018번**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/baekjoon_step13/Baekjoon1018.java>) : 체스판 다시 칠하기 ★
+
+
+
   
