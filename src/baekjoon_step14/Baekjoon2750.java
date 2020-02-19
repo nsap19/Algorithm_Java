@@ -1,5 +1,5 @@
 /* 삽입 정렬
-* 시간 복잡도 O(n^2)*/
+ * 시간 복잡도 O(n^2)*/
 package baekjoon_step14;
 
 import java.util.Scanner;
