@@ -1,5 +1,5 @@
 # BaekJoon_Java 
-######(README 출처 : @audtjr9514)
+(README 출처 : @audtjr9514)
 
 @audtjr9514 명석이와 함께하는 자바로 풀어보는 백준 알고리즘 단계별 - 효율적으로 하고있는지는 모르겠지만 일단 풀어본다
 
@@ -105,13 +105,14 @@
 - #### 12단계 : 실습 2
    - 아직 준비중
   
-- #### 13단계 : 브루트 포스_ ~ ing
+- #### 13단계 : 브루트 포스_ Finished
    1. [**2798번**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/baekjoon_step13/Baekjoon2798.java>) : 블랙잭
    2. [**2231번**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/baekjoon_step13/Baekjoon2231.java>) : 분해
    3. [**7568번**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/baekjoon_step13/Baekjoon7568.java>) : 덩치
    4. [**1018번**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/baekjoon_step13/Baekjoon1018.java>) : 체스판 다시 칠하기 ★
    5. [**1436번**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/baekjoon_step13/Baekjoon1436.java>) : 영화감독 숌
 
-
+- #### 14단계 : 정렬_ ~ ing
+   1. [**2750번**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/baekjoon_step14/Baekjoon2750.java>) : 수 정렬하기
 
   
