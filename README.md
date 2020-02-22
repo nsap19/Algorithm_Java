@@ -114,5 +114,8 @@
 
 - #### 14단계 : 정렬_ ~ ing
    1. [**2750번**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/baekjoon_step14/Baekjoon2750.java>) : 수 정렬하기
+   2. [**2751번**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/baekjoon_step14/Baekjoon2751.java>) : 수 정렬하기 2
+   3. [**10989번**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/baekjoon_step14/Baekjoon10989.java>) : 수 정렬하기 3
+
 
   
