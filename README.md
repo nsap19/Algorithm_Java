@@ -111,11 +111,26 @@
    4. [**1018번**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/baekjoon_step13/Baekjoon1018.java>) : 체스판 다시 칠하기 ★
    5. [**1436번**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/baekjoon_step13/Baekjoon1436.java>) : 영화감독 숌
 
-- #### 14단계 : 정렬_ ~ ing
+- #### 14단계 : 정렬_ Finished
    1. [**2750번**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/baekjoon_step14/Baekjoon2750.java>) : 수 정렬하기
    2. [**2751번**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/baekjoon_step14/Baekjoon2751.java>) : 수 정렬하기 2
    3. [**10989번**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/baekjoon_step14/Baekjoon10989.java>) : 수 정렬하기 3
    4. [**2108번**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/baekjoon_step14/Baekjoon2108.java>) : 통계학 
+   5. [**1427번**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/baekjoon_step14/Baekjoon1427.java>) : 소트인사이드 
+   6. [**11650번**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/baekjoon_step14/Baekjoon11650.java>) : 좌표 정렬하기 ★
+   7. [**11651번**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/baekjoon_step14/Baekjoon11651.java>) : 좌표 정렬하기 2
+   8. [**1181번**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/baekjoon_step14/Baekjoon1181.java>) : 단어 정렬
+   9. [**10814번**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/baekjoon_step14/Baekjoon10814.java>) : 나이순 정렬 
+
+   10. etc - 기본 정렬 알고리즘
+        1. [**선택 정렬**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/sort/SelectionSort.java>)
+        2. [**버블 정렬**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/sort/BubbleSort.java>)
+
+
+- #### 15단계 : 백트래킹_ ing
+
+
+ 
 
 
   
