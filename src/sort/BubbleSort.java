@@ -1,3 +1,5 @@
+/* 버블 정렬 - 인접한 두 개의 원소를 비교하여 정렬 기준에 맞지 않으면 자리를 교환하는 방식으로 정렬한다. */
+/* 시간복잡도 O(n^2) */
 package sort;
 
 public class BubbleSort {
