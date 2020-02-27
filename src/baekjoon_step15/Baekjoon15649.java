@@ -47,6 +47,6 @@ public class Baekjoon15649 {
         for (int i = 0; i < m; i++) {
             bw.write(result[i] + " ");
         }
-        bw.write("\n");
+        bw.newLine();
     }
 }
