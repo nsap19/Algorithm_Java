@@ -19,13 +19,13 @@ public class Baekjoon15652 {
             arr[i] = i + 1;
         }
 
-        combination(arr, result, visited, 0, n, r);
+        combination(arr, result, 0, n, r);
 
         bw.close();
 
     }
 
-    private static void combination(int[] arr, int[] result, boolean[] visited, int start, int n, int r) throws IOException { //중복조합(자기 자신을 포함해서 뽑는 조합/하지만 순서가 다른 같은 쌍이면 안됌)
+    private static void combination(int[] arr, int[] result, int start, int n, int r) throws IOException { //중복조합(자기 자신을 포함해서 뽑는 조합/하지만 순서가 다른 같은 쌍이면 안됌)
         if (r == 0) { //더 뽑아야 할 갯수가 없을 때 print
             print(result);
             return;
@@ -34,7 +34,7 @@ public class Baekjoon15652 {
         //start에서 모든 경우의 수를 다 뽑은 후 i++이 됌
         for (int i = start; i < n; i++) { //visit 검사를 위한 for문, start보다 작으면 뽑을 후보에서 제외
             result[result.length - r] = arr[i];
-            combination(arr, result, visited, i, n, r - 1); //start보다 같거나(자기자신 포함) 큰 수 에서 수를 뽑기 위해 i에서 범위 시작
+            combination(arr, result, i, n, r - 1); //start보다 같거나(자기자신 포함) 큰 수 에서 수를 뽑기 위해 i에서 범위 시작
         }
 
 

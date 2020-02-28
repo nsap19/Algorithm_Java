@@ -2,6 +2,29 @@
 /* 각각의 버킷을 큐로 구현 */
 /* 시간복잡도 O(d(n+r)) */
 /* 정렬할 원소의 수(n), 키 값의 자리수(d), 버킷의 수를 결정하는 기수(r)에 따라서 달라진다. */
+
+//기수 정렬 알고리즘(크기가 n인 배열 a[])
+/*
+ *  radixSort(a[], n){
+ *   for(int k=1; i <=n; k++){
+ *
+ *       for(int i=0; i<n ; i++){
+ *          //k번째 자릿수 값에 따라서 해당 버킷에 저장한다.
+ *            enQueue(Q[k], a[i])
+ *       }
+ *
+ *      int p=-1;
+ *      for(int i=0; i<=9; i<=i+1){
+ *          while(Q[i] != null){
+ *              p+=1;
+ *              a[p]=deQueue(Q[i]);
+ *          }
+ *      }
+ *
+ *    }
+ *  }
+ */
+
 package sort;
 
 import java.util.Arrays;
@@ -14,7 +37,7 @@ public class RadixSort {
 
         System.out.println("result");
         for (int i = 0; i < arr.length; i++) {
-            System.out.print(arr[i]+" ");
+            System.out.print(arr[i] + " ");
         }
     }
 
