@@ -1,3 +1,8 @@
+/* visited - 중복해서 뽑지 않기 위해 체크하는 값
+* DFS를 돌면서 visited에 체크되지 않은 값들을 result배열에 넣음
+* depth 값은 output 에 들어간 숫자의 길이
+* depth의 값이 m 만큼 되면  result에 들어있는 값을 출력하면 됩니다.
+*/
 package baekjoon_step15;
 
 import java.io.*;
@@ -26,7 +31,7 @@ public class Baekjoon15649 {
     }
 
     private static void permutation(int[] arr, int[] result, boolean[] visited, int depth, int n, int m) throws IOException { //순열(순서있게 배열)
-        if (depth == m) {
+        if (depth == m) { //depth가 뽑아야하는 수와 같아지면 출력
             print(result, m);
             return;
         }
