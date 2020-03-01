@@ -125,6 +125,14 @@
         1. [**선택 정렬**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/sort/SelectionSort.java>)
         2. [**버블 정렬**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/sort/BubbleSort.java>)
         3. [**삽입 정렬**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/sort/InsertionSort.java>)
+        4. [**셸 정렬**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/sort/ShellSort.java>)
+        5. [**퀵 정렬**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/sort/QuickSort.java>)
+        6. [**병합 정렬**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/sort/MergeSort.java>)
+        7. [**힙 정렬**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/sort/HeapSort.java>)
+        8. [**기수 정렬**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/sort/RadixSort.java>)
+        9. [**트리 정렬**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/sort/TreeSort.java>)
+          
+        
 
 
 - #### 15단계 : 백트래킹_ ing
