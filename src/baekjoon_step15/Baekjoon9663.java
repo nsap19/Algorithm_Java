@@ -13,7 +13,7 @@ class Baekjoon9663 {
 
         int result = backtracking(0, cols, n); //0번째 행부터 확인
 
-        햐 //n이 주어졌을 때, 퀸을 놓는 방법의 수 출력
+        bw.write(String.valueOf(result)); //n이 주어졌을 때, 퀸을 놓는 방법의 수 출력
         bw.close();
     }
 
