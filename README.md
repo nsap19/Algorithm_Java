@@ -24,6 +24,7 @@
   3. [**2753번**](<https://github.com/nsap19/Baekjoon_Java/blob/master/src/baekjoon_step2/Baekjoon2753.java>) : 윤년
   4. [**2884번**](<https://github.com/nsap19/Baekjoon_Java/blob/master/src/baekjoon_step2/Baekjoon2884.java>) : 알람 시계
   5. [**10817번**](<https://github.com/nsap19/Baekjoon_Java/blob/master/src/baekjoon_step2/Baekjoon10817.java>) : 세 수 
+  6. [**5543번**](<https://github.com/nsap19/Baekjoon_Java/blob/master/src/baekjoon_step2/Baekjoon5543.java>) : 상근날드
 
 
 - #### 3단계 : for문 _ Finished
@@ -140,7 +141,8 @@
    2. [**15650번**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/baekjoon_step15/Baekjoon15650.java>) : N과 M (2) ★ - 조합
    3. [**15651번**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/baekjoon_step15/Baekjoon15651.java>) : N과 M (3) - 중복 순열
    4. [**15652번**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/baekjoon_step15/Baekjoon15652.java>) : N과 M (4) - 중복 조합
-   5. [**9663번**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/baekjoon_step15/Baekjoon9663.java>) : N-Queen
+   5. [**9663번**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/baekjoon_step15/Baekjoon9663.java>) : N-Queen ★
+   6. [**2580번**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/baekjoon_step15/Baekjoon2580.java>) : 스도쿠 ★
 
 
  
