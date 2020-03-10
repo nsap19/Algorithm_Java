@@ -152,6 +152,10 @@
    3. [**1904번**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/baekjoon_step16/Baekjoon1904.java>) : 01타일 ★
    4. [**9461번**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/baekjoon_step16/Baekjoon9461.java>) : 파도반 수열
    5. [**1149번**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/baekjoon_step16/Baekjoon1149.java>) : RGB거리 ★
+   6. [**1932번**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/baekjoon_step16/Baekjoon1932.java>) : 정수 삼각형
+   7. [**2579번**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/baekjoon_step16/Baekjoon2579.java>) : 계단 오르 ★
+
+
 
    
 
