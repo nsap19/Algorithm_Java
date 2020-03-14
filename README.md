@@ -42,6 +42,7 @@
   3. [**1110번**](<https://github.com/nsap19/Baekjoon_Java/blob/master/src/baekjoon_step4/Baekjoon1110.java>) : 더하기 사이클
 
 - #### 5단계 : 실습 1
+  1. [**10039번**](<https://github.com/nsap19/Baekjoon_Java/blob/master/src/baekjoon_step5/Baekjoon10039.java>) : 평균 점수
   2. [**5543번**](<https://github.com/nsap19/Baekjoon_Java/blob/master/src/baekjoon_step5/Baekjoon5543.java>) : 상근날드
   3. [**10817번**](<https://github.com/nsap19/Baekjoon_Java/blob/master/src/baekjoon_step5/Baekjoon10817.java>) : 세 수 
 
@@ -150,7 +151,9 @@
    4. [**9461번**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/baekjoon_step16/Baekjoon9461.java>) : 파도반 수열
    5. [**1149번**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/baekjoon_step16/Baekjoon1149.java>) : RGB거리 ★
    6. [**1932번**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/baekjoon_step16/Baekjoon1932.java>) : 정수 삼각형
-   7. [**2579번**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/baekjoon_step16/Baekjoon2579.java>) : 계단 오르 ★
+   7. [**2579번**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/baekjoon_step16/Baekjoon2579.java>) : 계단 오르기 ★
+   8. [**1463번**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/baekjoon_step16/Baekjoon1463.java>) : 1로 만들기
+
 
 ***
 - #### 기타 문
