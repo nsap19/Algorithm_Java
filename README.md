@@ -22,10 +22,6 @@
   1. [**1330번**](<https://github.com/nsap19/Baekjoon_Java/blob/master/src/baekjoon_step2/Baekjoon1330.java>) : 두 수 비교하기
   2. [**9498번**](<https://github.com/nsap19/Baekjoon_Java/blob/master/src/baekjoon_step2/Baekjoon9498.java>) : 시험 성적
   3. [**2753번**](<https://github.com/nsap19/Baekjoon_Java/blob/master/src/baekjoon_step2/Baekjoon2753.java>) : 윤년
-  4. [**2884번**](<https://github.com/nsap19/Baekjoon_Java/blob/master/src/baekjoon_step2/Baekjoon2884.java>) : 알람 시계
-  5. [**10817번**](<https://github.com/nsap19/Baekjoon_Java/blob/master/src/baekjoon_step2/Baekjoon10817.java>) : 세 수 
-  6. [**5543번**](<https://github.com/nsap19/Baekjoon_Java/blob/master/src/baekjoon_step2/Baekjoon5543.java>) : 상근날드
-
 
 - #### 3단계 : for문 _ Finished
   1. [**2739번**](<https://github.com/nsap19/Baekjoon_Java/blob/master/src/baekjoon_step3/Baekjoon2739.java>) : 구구단
@@ -46,7 +42,8 @@
   3. [**1110번**](<https://github.com/nsap19/Baekjoon_Java/blob/master/src/baekjoon_step4/Baekjoon1110.java>) : 더하기 사이클
 
 - #### 5단계 : 실습 1
-  - 아직 준비중
+  2. [**5543번**](<https://github.com/nsap19/Baekjoon_Java/blob/master/src/baekjoon_step5/Baekjoon5543.java>) : 상근날드
+  3. [**10817번**](<https://github.com/nsap19/Baekjoon_Java/blob/master/src/baekjoon_step5/Baekjoon10817.java>) : 세 수 
 
 - #### 6단계 : 1차원 배열 _ Finished
    1. [**10818번**](<https://github.com/nsap19/Baekjoon_Java/blob/master/src/baekjoon_step6/Baekjoon10818.java>) : 최소, 최대
@@ -155,7 +152,10 @@
    6. [**1932번**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/baekjoon_step16/Baekjoon1932.java>) : 정수 삼각형
    7. [**2579번**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/baekjoon_step16/Baekjoon2579.java>) : 계단 오르 ★
 
+***
+- #### 기타 문
 
+  1. [**2884번**](<https://github.com/nsap19/Baekjoon_Java/blob/master/src/etc/Baekjoon2884.java>) : 알람 시계
 
    
 
