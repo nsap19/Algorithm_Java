@@ -153,6 +153,7 @@
    6. [**1932번**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/baekjoon_step16/Baekjoon1932.java>) : 정수 삼각형
    7. [**2579번**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/baekjoon_step16/Baekjoon2579.java>) : 계단 오르기 ★
    8. [**1463번**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/baekjoon_step16/Baekjoon1463.java>) : 1로 만들기
+   9. [**10844번**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/baekjoon_step16/Baekjoon10844.java>) : 쉬운 계단 수 ★
 
 
 ***
