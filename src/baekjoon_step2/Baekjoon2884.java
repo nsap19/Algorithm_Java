@@ -1,4 +1,4 @@
-package etc;
+package baekjoon_step2;
 
 import java.util.*;
 
