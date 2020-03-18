@@ -22,6 +22,9 @@
   1. [**1330번**](<https://github.com/nsap19/Baekjoon_Java/blob/master/src/baekjoon_step2/Baekjoon1330.java>) : 두 수 비교하기
   2. [**9498번**](<https://github.com/nsap19/Baekjoon_Java/blob/master/src/baekjoon_step2/Baekjoon9498.java>) : 시험 성적
   3. [**2753번**](<https://github.com/nsap19/Baekjoon_Java/blob/master/src/baekjoon_step2/Baekjoon2753.java>) : 윤년
+  4. [**14681번**](<https://github.com/nsap19/Baekjoon_Java/blob/master/src/baekjoon_step2/Baekjoon14681.java>) : 사분면 고르기
+  5. [**2884번**](<https://github.com/nsap19/Baekjoon_Java/blob/master/src/baekjoon_step2/Baekjoon2884.java>) : 알람 시계
+
 
 - #### 3단계 : for문 _ Finished
   1. [**2739번**](<https://github.com/nsap19/Baekjoon_Java/blob/master/src/baekjoon_step3/Baekjoon2739.java>) : 구구단
@@ -159,12 +162,11 @@
    7. [**2579번**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/baekjoon_step16/Baekjoon2579.java>) : 계단 오르기 ★
    8. [**1463번**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/baekjoon_step16/Baekjoon1463.java>) : 1로 만들기
    9. [**10844번**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/baekjoon_step16/Baekjoon10844.java>) : 쉬운 계단 수 ★
+   10. [**2156번**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/baekjoon_step16/Baekjoon2156.java>) : 포도주 시식
 
 
 ***
-- #### 기타 문
-
-  1. [**2884번**](<https://github.com/nsap19/Baekjoon_Java/blob/master/src/etc/Baekjoon2884.java>) : 알람 시계
+- #### 기타 문제
 
    
 
