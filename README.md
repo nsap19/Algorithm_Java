@@ -45,6 +45,11 @@
   1. [**10039번**](<https://github.com/nsap19/Baekjoon_Java/blob/master/src/baekjoon_step5/Baekjoon10039.java>) : 평균 점수
   2. [**5543번**](<https://github.com/nsap19/Baekjoon_Java/blob/master/src/baekjoon_step5/Baekjoon5543.java>) : 상근날드
   3. [**10817번**](<https://github.com/nsap19/Baekjoon_Java/blob/master/src/baekjoon_step5/Baekjoon10817.java>) : 세 수 
+  4. [**2523번**](<https://github.com/nsap19/Baekjoon_Java/blob/master/src/baekjoon_step5/Baekjoon2523.java>) : 별 찍기 - 13
+  5. [**2446번**](<https://github.com/nsap19/Baekjoon_Java/blob/master/src/baekjoon_step5/Baekjoon2446.java>) : 별 찍기 - 9
+  6. [**10996번**](<https://github.com/nsap19/Baekjoon_Java/blob/master/src/baekjoon_step5/Baekjoon10996.java>) : 별 찍기 - 21
+
+ 
 
 - #### 6단계 : 1차원 배열 _ Finished
    1. [**10818번**](<https://github.com/nsap19/Baekjoon_Java/blob/master/src/baekjoon_step6/Baekjoon10818.java>) : 최소, 최대
