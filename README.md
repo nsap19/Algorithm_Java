@@ -163,6 +163,7 @@
    8. [**1463번**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/baekjoon_step16/Baekjoon1463.java>) : 1로 만들기
    9. [**10844번**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/baekjoon_step16/Baekjoon10844.java>) : 쉬운 계단 수 ★
    10. [**2156번**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/baekjoon_step16/Baekjoon2156.java>) : 포도주 시식
+   11. [**11053번**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/baekjoon_step16/Baekjoon11053.java>) : 가장 긴 증가하는 부분 수열
 
 
 ***
