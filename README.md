@@ -166,9 +166,7 @@
    11. [**11053번**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/baekjoon_step16/Baekjoon11053.java>) : 가장 긴 증가하는 부분 수열
    12. [**11054번**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/baekjoon_step16/Baekjoon11053.java>) : 가장 긴 바이토닉 부분 수열 ★
    13. [**2565번**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/baekjoon_step16/Baekjoon2565.java>) : 전깃줄 
-   
-
-
+  
 ***
 - #### 기타 문제
 
