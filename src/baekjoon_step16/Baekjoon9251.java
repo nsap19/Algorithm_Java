@@ -9,16 +9,24 @@ public class Baekjoon9251 {
 
         String[] arr1 = br.readLine().split("");
         String[] arr2 = br.readLine().split("");
-        int[] dp = new int[arr1.length];
 
-        for (int i = 0; i < arr1.length; i++) {
-            dp[i] = 1;
-            for (int j = 0; j <arr2.length; j++) {
-                if (arr[i] > arr[j] && dp1[j] + 1 > dp1[i]) {
-                    dp1[i] = dp1[j] + 1;
-                }
+        int[][] dp = new int[arr2.length + 1][arr1.length + 1];
+
+        for (int i = 1; i <= arr2.length; i++) {
+            for (int j = 1; j <= arr1.length; j++) {
+                if (arr1[j - 1].equals(arr2[i - 1]) && dp[i - 1][j - 1] + 1 > dp[i][j]) {
+                    dp[i][j] = dp[i - 1][j - 1] + 1;
+                } else dp[i][j] = Math.max(dp[i - 1][j], dp[i][j - 1]);
             }
         }
 
+//        for (int[] v : dp) {
+//            for (int a : v)
+//                System.out.print(a + " ");
+//            System.out.println();
+//        }
+
+        bw.write(String.valueOf(dp[arr2.length][arr1.length]));
+        bw.close();
     }
 }

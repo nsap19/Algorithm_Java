@@ -26,12 +26,17 @@ public class Baekjoon1904 {
         int n = Integer.parseInt(br.readLine());
         long[] dp = new long[n + 1];
 
-        dp[1] = 1;
-        dp[2] = 2;
+        if (n == 0) dp[0] = 0;
+        if (n >= 1) dp[1] = 1;
+        if (n >= 2) dp[2] = 2;
 
         for (int i = 3; i <= n; i++) {
             dp[i] = (dp[i - 2] + dp[i - 1]) % 15746;
         }
+
+//        for (int i = 0; i < dp.length; i++) {
+//            System.out.println(dp[i]);
+//        }
         bw.write(String.valueOf(dp[n]));
         bw.close();
 
