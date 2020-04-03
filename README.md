@@ -152,7 +152,7 @@
    7. [**14888번**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/baekjoon_step15/Baekjoon14888.java>) : 연산자 끼워넣기
    8. [**14889번**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/baekjoon_step15/Baekjoon14889.java>) : 스타트와 링크 ★
    
-- #### 16단계 : 동적 계획법 1_ ing
+- #### 16단계 : 동적 계획법 1_ Finished
    1. [**2748번**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/baekjoon_step16/Baekjoon2748.java>) : 피보나치 수 2
    2. [**1003번**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/baekjoon_step16/Baekjoon1003.java>) : 피보나치 함수
    3. [**1904번**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/baekjoon_step16/Baekjoon1904.java>) : 01타일 ★
@@ -168,6 +168,10 @@
    13. [**2565번**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/baekjoon_step16/Baekjoon2565.java>) : 전깃줄 
    14. [**9251번**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/baekjoon_step16/Baekjoon9251.java>) : LCS ★
    15. [**1912번**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/baekjoon_step16/Baekjoon1912.java>) : 연속합
+   16. [**12865번**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/baekjoon_step16/Baekjoon12865.java>) : 평범한 배낭 ★★
+
+- #### 18단계 : 그리디 알고리즘_ ing
+   1. [**11047번**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/baekjoon_step18/Baekjoon11047.java>) : 동전 0
 
 ***
 - #### 기타 문제
