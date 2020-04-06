@@ -170,9 +170,17 @@
    15. [**1912번**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/baekjoon_step16/Baekjoon1912.java>) : 연속합
    16. [**12865번**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/baekjoon_step16/Baekjoon12865.java>) : 평범한 배낭 ★★
 
-- #### 18단계 : 그리디 알고리즘_ ing
+- #### 18단계 : 그리디 알고리즘_Finished
    1. [**11047번**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/baekjoon_step18/Baekjoon11047.java>) : 동전 0
+   2. [**1931번**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/baekjoon_step18/Baekjoon1931.java>) : 회의실 배정
+   3. [**11399번**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/baekjoon_step18/Baekjoon11399.java>) : ATM
+   4. [**1541번**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/baekjoon_step18/Baekjoon1541.java>) : 잃어버린 괄호
 
+- #### 19단계 : 수학 3_ing
+   1. [**5086번**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/baekjoon_step19/Baekjoon5086.java>) : 배수와 약수 
+   2. [**1037번**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/baekjoon_step19/Baekjoon1037.java>) : 약수
+   3. [**11653번**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/baekjoon_step19/Baekjoon11653.java>) : 소인수분해 
+ 
 ***
 - #### 기타 문제
 
