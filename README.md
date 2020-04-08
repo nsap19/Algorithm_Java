@@ -180,7 +180,9 @@
    1. [**5086번**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/baekjoon_step19/Baekjoon5086.java>) : 배수와 약수 
    2. [**1037번**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/baekjoon_step19/Baekjoon1037.java>) : 약수
    3. [**11653번**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/baekjoon_step19/Baekjoon11653.java>) : 소인수분해 
- 
+   4. [**2609번**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/baekjoon_step19/Baekjoon2609.java>) : 최대공약수와 최소공배수 
+   
+
 ***
 - #### 기타 문제
 
