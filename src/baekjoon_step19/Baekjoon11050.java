@@ -12,9 +12,13 @@ public class Baekjoon11050 {
         int n = Integer.parseInt(st.nextToken());
         int k = Integer.parseInt(st.nextToken());
 
-
-
+        int result = factorial(n) / (factorial(n - k) * factorial(k));
+        bw.write(String.valueOf(result));
+        bw.close();
     }
 
-//    static void Factorial()
+    public static int factorial(int n) {
+        if (n == 1 || n == 0) return 1;
+        else return n * factorial(n - 1);
+    }
 }
