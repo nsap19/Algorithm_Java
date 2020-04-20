@@ -1,3 +1,9 @@
+//파스칼의 삼각형 이용
+//5C2 = 4C1 + 4C2
+//4C1 = 3C0 + 3C1, 4C2 = 3C1 + 3C2
+//f[i][j] = (f[i-1][j-1] + f[i-1][j]) % 10,007
+//j가 0일 경우 또는 i와 j가 같을경우에는 값이 1이된다.
+
 package baekjoon_step19;
 
 import java.io.*;
@@ -11,14 +17,16 @@ public class Baekjoon11051 {
         StringTokenizer st = new StringTokenizer(br.readLine());
         int n = Integer.parseInt(st.nextToken());
         int k = Integer.parseInt(st.nextToken());
+        int[][] tri = new int[n + 1][n + 1];
 
-        int result = (factorial(n) / (factorial(n - k) * factorial(k))) % 10007;
-        bw.write(String.valueOf(result));
+        for (int i = 0; i < tri.length; i++) {
+            for (int j = 0; j <= i; j++) {
+                if (i == j || j == 0) {
+                    tri[i][j] = 1;
+                } else tri[i][j] = (tri[i - 1][j - 1] + tri[i - 1][j]) % 10007;
+            }
+        }
+        bw.write(String.valueOf(tri[n][k]));
         bw.close();
-    }
-
-    public static int factorial(int n) {
-        if (n == 1 || n == 0) return 1;
-        else return n * factorial(n - 1) % 10007;
     }
 }

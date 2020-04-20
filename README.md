@@ -183,6 +183,9 @@
    4. [**2609번**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/baekjoon_step19/Baekjoon2609.java>) : 최대공약수와 최소공배수 
    5. [**2981번**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/baekjoon_step19/Baekjoon2981.java>) : 검문 ★
    6. [**3036번**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/baekjoon_step19/Baekjoon3036.java>) : 링
+   7. [**11050번**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/baekjoon_step19/Baekjoon11050.java>) : 이항 계수 1
+   8. [**11051번**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/baekjoon_step19/Baekjoon11051.java>) : 이항 계수 2
+
 
 
 ***
