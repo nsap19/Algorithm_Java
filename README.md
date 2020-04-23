@@ -185,6 +185,8 @@
    6. [**3036번**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/baekjoon_step19/Baekjoon3036.java>) : 링
    7. [**11050번**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/baekjoon_step19/Baekjoon11050.java>) : 이항 계수 1
    8. [**11051번**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/baekjoon_step19/Baekjoon11051.java>) : 이항 계수 2
+   9. [**9375번**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/baekjoon_step19/Baekjoon9375.java>) : 패션왕 신해빈
+   10. [**1676번**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/baekjoon_step19/Baekjoon1676.java>) : 팩토리얼 0의 개수
 
 
 
