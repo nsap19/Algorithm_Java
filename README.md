@@ -176,7 +176,7 @@
    3. [**11399번**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/baekjoon_step18/Baekjoon11399.java>) : ATM
    4. [**1541번**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/baekjoon_step18/Baekjoon1541.java>) : 잃어버린 괄호
 
-- #### 19단계 : 수학 3_ing
+- #### 19단계 : 수학 3_Finished 
    1. [**5086번**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/baekjoon_step19/Baekjoon5086.java>) : 배수와 약수 
    2. [**1037번**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/baekjoon_step19/Baekjoon1037.java>) : 약수
    3. [**11653번**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/baekjoon_step19/Baekjoon11653.java>) : 소인수분해 
@@ -187,6 +187,7 @@
    8. [**11051번**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/baekjoon_step19/Baekjoon11051.java>) : 이항 계수 2
    9. [**9375번**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/baekjoon_step19/Baekjoon9375.java>) : 패션왕 신해빈
    10. [**1676번**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/baekjoon_step19/Baekjoon1676.java>) : 팩토리얼 0의 개수
+   11. [**2004번**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/baekjoon_step19/Baekjoon2004.java>) : 조합 0의 개수
 
 
 
