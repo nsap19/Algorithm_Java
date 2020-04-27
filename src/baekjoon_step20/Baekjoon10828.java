@@ -7,6 +7,7 @@ import java.util.StringTokenizer;
 public class Baekjoon10828 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
 
         int n = Integer.parseInt(br.readLine());
         Stack<Integer> stack = new Stack<>();
@@ -19,19 +20,21 @@ public class Baekjoon10828 {
                 stack.push(v);
             } else if (str.equals("pop")) {
                 if (stack.size() == 0)
-                    System.out.println(-1);
+                    bw.write("-1\n");
                 else
-                    System.out.println(stack.pop());
-            } else if (str.equals("size")) System.out.println(stack.size());
+                    bw.write(String.valueOf(stack.pop())+"\n");
+            } else if (str.equals("size")) bw.write(String.valueOf(stack.size())+"\n");
             else if (str.equals("empty")) {
-                if (stack.empty() == true) System.out.println(1);
-                else System.out.println(0);
+                if (stack.empty() == true) bw.write("1\n");
+                else bw.write("0\n");
             } else if (str.equals("top")) {
                 if (stack.size() == 0)
-                    System.out.println(-1);
+                    bw.write("-1\n");
                 else
-                    System.out.println(stack.peek());
+                    bw.write(String.valueOf(stack.peek())+"\n");
             }
+
+            bw.flush();
         }
     }
 }
