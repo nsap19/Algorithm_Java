@@ -189,6 +189,8 @@
    10. [**1676번**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/baekjoon_step19/Baekjoon1676.java>) : 팩토리얼 0의 개수
    11. [**2004번**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/baekjoon_step19/Baekjoon2004.java>) : 조합 0의 개수
 
+- #### 20단계 : 스택_ ~ing
+   1. [**10828번**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/baekjoon_step20/Baekjoon10828.java>) : 스택 
 
 
 ***
