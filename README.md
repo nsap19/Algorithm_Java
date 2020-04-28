@@ -191,6 +191,7 @@
 
 - #### 20단계 : 스택_ ~ing
    1. [**10828번**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/baekjoon_step20/Baekjoon10828.java>) : 스택 
+   2. [**10773번**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/baekjoon_step20/Baekjoon10773.java>) : 제로 
 
 
 ***
