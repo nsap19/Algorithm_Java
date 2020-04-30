@@ -176,13 +176,22 @@
    3. [**11399번**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/baekjoon_step18/Baekjoon11399.java>) : ATM
    4. [**1541번**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/baekjoon_step18/Baekjoon1541.java>) : 잃어버린 괄호
 
-- #### 19단계 : 수학 3_ing
+- #### 19단계 : 수학 3_Finished 
    1. [**5086번**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/baekjoon_step19/Baekjoon5086.java>) : 배수와 약수 
    2. [**1037번**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/baekjoon_step19/Baekjoon1037.java>) : 약수
    3. [**11653번**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/baekjoon_step19/Baekjoon11653.java>) : 소인수분해 
    4. [**2609번**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/baekjoon_step19/Baekjoon2609.java>) : 최대공약수와 최소공배수 
    5. [**2981번**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/baekjoon_step19/Baekjoon2981.java>) : 검문 ★
    6. [**3036번**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/baekjoon_step19/Baekjoon3036.java>) : 링
+   7. [**11050번**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/baekjoon_step19/Baekjoon11050.java>) : 이항 계수 1
+   8. [**11051번**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/baekjoon_step19/Baekjoon11051.java>) : 이항 계수 2
+   9. [**9375번**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/baekjoon_step19/Baekjoon9375.java>) : 패션왕 신해빈
+   10. [**1676번**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/baekjoon_step19/Baekjoon1676.java>) : 팩토리얼 0의 개수
+   11. [**2004번**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/baekjoon_step19/Baekjoon2004.java>) : 조합 0의 개수
+
+- #### 20단계 : 스택_ ~ing
+   1. [**10828번**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/baekjoon_step20/Baekjoon10828.java>) : 스택 
+   2. [**10773번**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/baekjoon_step20/Baekjoon10773.java>) : 제로 
 
 
 ***
