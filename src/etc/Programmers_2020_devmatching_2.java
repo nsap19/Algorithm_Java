@@ -1,7 +1,15 @@
 package etc;
 
 public class Programmers_2020_devmatching_2 {
-    public int solution(int[][] office, int r, int c, String[] move) {
+    public static void main(String[] args) {
+        int[][] office={{5,-1,4},{6,3,-1},{2,-1,1}};
+        int r = 1;
+        int c=0;
+        String[] move ={"go","go","right","go","right","go","left","go"};
+        int result= solution(office, r, c, move);
+        System.out.println(result);
+    }
+    public static int solution(int[][] office, int r, int c, String[] move) {
         int answer = 0;
         String[] news = {"n", "e", "s", "w"};
         int k = 0;
