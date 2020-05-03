@@ -189,10 +189,15 @@
    10. [**1676번**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/baekjoon_step19/Baekjoon1676.java>) : 팩토리얼 0의 개수
    11. [**2004번**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/baekjoon_step19/Baekjoon2004.java>) : 조합 0의 개수
 
-- #### 20단계 : 스택_ ~ing
+- #### 20단계 : 스택_Finished
    1. [**10828번**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/baekjoon_step20/Baekjoon10828.java>) : 스택 
    2. [**10773번**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/baekjoon_step20/Baekjoon10773.java>) : 제로 
-
+   3. [**9012번**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/baekjoon_step20/Baekjoon9012.java>) : 괄호
+   4. [**4949번**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/baekjoon_step20/Baekjoon4949.java>) : 균형잡힌 세상 ★ 
+   5. [**1874번**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/baekjoon_step20/Baekjoon1874.java>) : 스택 수열
+   
+- #### 21단계 : 큐, 덱_ ~ing
+   
 
 ***
 - #### 기타 문제
