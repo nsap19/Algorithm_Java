@@ -197,7 +197,9 @@
    5. [**1874번**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/baekjoon_step20/Baekjoon1874.java>) : 스택 수열
    
 - #### 21단계 : 큐, 덱_ ~ing
-   
+  1. [**18258번**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/baekjoon_step21/Baekjoon18258.java>) : 큐 2 
+  2. [**2164번**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/baekjoon_step21/Baekjoon2164.java>) : 카드2 
+  3. [**11866번**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/baekjoon_step21/Baekjoon11866.java>) : 요세푸스 문제 0 
 
 ***
 - #### 기타 문제
