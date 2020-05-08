@@ -201,6 +201,8 @@
   2. [**2164번**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/baekjoon_step21/Baekjoon2164.java>) : 카드2 
   3. [**11866번**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/baekjoon_step21/Baekjoon11866.java>) : 요세푸스 문제 0 
   4. [**1966번**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/baekjoon_step21/Baekjoon1966.java>) : 프린터 큐 ★
+  5. [**10866번**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/baekjoon_step21/Baekjoon10866.java>) : 덱
+  4. [**1021번**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/baekjoon_step21/Baekjoon1021.java>) : 회전하는 큐 ★
 
 ***
 - #### 기타 문제
