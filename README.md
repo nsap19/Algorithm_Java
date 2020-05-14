@@ -170,6 +170,9 @@
    15. [**1912번**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/baekjoon_step16/Baekjoon1912.java>) : 연속합
    16. [**12865번**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/baekjoon_step16/Baekjoon12865.java>) : 평범한 배낭 ★★
 
+- #### 17단계 : 실습 3
+   - 아직 준비중
+   
 - #### 18단계 : 그리디 알고리즘_Finished
    1. [**11047번**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/baekjoon_step18/Baekjoon11047.java>) : 동전 0
    2. [**1931번**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/baekjoon_step18/Baekjoon1931.java>) : 회의실 배정
@@ -196,16 +199,31 @@
    4. [**4949번**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/baekjoon_step20/Baekjoon4949.java>) : 균형잡힌 세상 ★ 
    5. [**1874번**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/baekjoon_step20/Baekjoon1874.java>) : 스택 수열
    
-- #### 21단계 : 큐, 덱_ ~ing
+- #### 21단계 : 큐, 덱_Finished
   1. [**18258번**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/baekjoon_step21/Baekjoon18258.java>) : 큐 2 
   2. [**2164번**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/baekjoon_step21/Baekjoon2164.java>) : 카드2 
   3. [**11866번**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/baekjoon_step21/Baekjoon11866.java>) : 요세푸스 문제 0 
   4. [**1966번**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/baekjoon_step21/Baekjoon1966.java>) : 프린터 큐 ★
   5. [**10866번**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/baekjoon_step21/Baekjoon10866.java>) : 덱
-  4. [**1021번**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/baekjoon_step21/Baekjoon1021.java>) : 회전하는 큐 ★
+  6. [**1021번**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/baekjoon_step21/Baekjoon1021.java>) : 회전하는 큐 ★
+  7. [**5430번**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/baekjoon_step21/Baekjoon5430.java>) : AC 
+
+- #### 22단계 : 실습 4
+   - 아직 준비중
+   
+- #### 23단계 : 분할 정복_ ~ing 
+  1. [**2630번**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/baekjoon_step23/Baekjoon2630.java>) : 색종이 만들기 
+   
 
 ***
 - #### 기타 문제
+    - 프로그래머스 2020 devmatching
+        - [**1번 문제**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/etc/Progrmmers_2020_devmatching_1.java>)
+        - [**2번 문제**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/etc/Progrmmers_2020_devmatching_2.java>)
+        - [**4번 문제**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/etc/Progrmmers_2020_devmatching_4.sql>)
+
+    - 2020 카카오 인턴십
+       - [**1번 문제**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/etc/kakao_internship2020_1.java>)
 
    
 
