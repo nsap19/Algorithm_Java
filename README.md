@@ -214,7 +214,8 @@
 - #### 23단계 : 분할 정복_ ~ing 
   1. [**2630번**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/baekjoon_step23/Baekjoon2630.java>) : 색종이 만들기 
   2. [**1992번**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/baekjoon_step23/Baekjoon1992.java>) : 쿼드트리 ★
- 
+  3. [**1780번**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/baekjoon_step23/Baekjoon1780.java>) : 종이의 개수
+
 
 ***
 - #### 기타 문제
