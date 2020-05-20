@@ -1,3 +1,11 @@
+/* a^6 = (a^3)^2
+   a^7 = (a^3)^2 * a
+    따라서
+    pow(a,n)은
+     - 1 [n=0 일 때]
+     - pow(a,n/2)^2 [n이 짝수 일 때]
+     - pow(a,n/2)^2 * a [n이 홀수 일 때]
+* */
 package baekjoon_step23;
 
 import java.io.*;
