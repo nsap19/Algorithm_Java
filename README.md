@@ -218,6 +218,7 @@
   4. [**1629번**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/baekjoon_step23/Baekjoon1629.java>) : 곱셈 ★
   5. [**11401번**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/baekjoon_step23/Baekjoon11401.java>) : 이항 계수 3 ★
   6. [**2740번**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/baekjoon_step23/Baekjoon2740.java>) : 행렬 곱셈
+  7. [**10830번**](<https://github.com/nsap19/BaekJoon_Java/blob/master/src/baekjoon_step23/Baekjoon10830.java>) : 행렬 제곱
 
 
 ***
