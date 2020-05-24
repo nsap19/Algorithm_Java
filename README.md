@@ -224,15 +224,16 @@
 ***
 - #### 기타 문제
     - 프로그래머스 2020 devmatching
-        - [**1번 문제**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/etc/Progrmmers_2020_devmatching_1.java>)
-        - [**2번 문제**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/etc/Progrmmers_2020_devmatching_2.java>)
-        - [**4번 문제**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/etc/Progrmmers_2020_devmatching_4.sql>)
+        - [**1번 문제**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/etc/Programmers_2020_devmatching_1.java>)
+        - [**2번 문제**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/etc/Programmers_2020_devmatching_2.java>)
+        - [**4번 문제**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/etc/Programmers_2020_devmatching_4.sql>)
 
     - 2020 카카오 인턴십
        - [**1번 문제**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/etc/kakao_internship2020_1.java>)
 
     - 프로그래머스 2020 summer coding
-        - [**1번 문제**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/etc/Progrmmers_2020_summercoding_1.java>)
+        - [**1번 문제**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/etc/Programmers_2020_summercoding_1.java>)
+        - [**2번 문제**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/etc/Programmers_2020_summercoding_2.java>)
 
 
 
