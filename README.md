@@ -234,6 +234,7 @@
     - 프로그래머스 2020 summer coding
         - [**1번 문제**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/etc/Programmers_2020_summercoding_1.java>)
         - [**2번 문제**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/etc/Programmers_2020_summercoding_2.java>)
+        - [**4번 문제**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/etc/Programmers_2020_summercoding_4.sql>)
 
 
 
