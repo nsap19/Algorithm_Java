@@ -26,24 +26,18 @@ public class Baekjoon6549 {
 
     }
 
-    private static long getMax(int start, int end) {
-        if (start == end) return arr[start];
-        int mid = (start+end) /2;
-        long max = Math.max(getMax(start,mid),getMax(mid+1, end));
+    private static long getMax(int left, int right) {
+        if (left == right) return arr[left];
+        int mid = (left+right) /2;
+        long ret = Math.max(getMax(left,mid),getMax(mid+1, right));
 
-        long min = 1000000000;
-        int len = end - start + 1;
-        long width;
-        int index;
+        int start = mid;
+        int end = mid+1;
+        long height = (long)Math.min(arr[start], arr[end]);
+        ret = Math.max(ret, height*2);
 
-        for (int i = start; i < end; i++) {
-            if (arr[i] < min) {
-                min = arr[i];
-                index = i;
-            }
-        }
 
-        width = min * len;
-        return width;
+
+        return ret;
     }
 }

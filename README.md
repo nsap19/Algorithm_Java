@@ -220,7 +220,7 @@
   6. [**2740번**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/baekjoon_step23/Baekjoon2740.java>) : 행렬 곱셈
   7. [**10830번**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/baekjoon_step23/Baekjoon10830.java>) : 행렬 제곱
   8. [**2749번**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/baekjoon_step23/Baekjoon2749.java>) : 피보나치 수 3
-
+  9. [**6549번**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/baekjoon_step23/Baekjoon6549.java>) : 히스토그램에서 가장 큰 직사각형 ★★ (진행중)
 
 ***
 - #### 기타 문제
