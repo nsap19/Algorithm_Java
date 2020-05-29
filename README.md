@@ -222,6 +222,10 @@
   8. [**2749번**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/baekjoon_step23/Baekjoon2749.java>) : 피보나치 수 3
   9. [**6549번**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/baekjoon_step23/Baekjoon6549.java>) : 히스토그램에서 가장 큰 직사각형 ★★ (진행중)
 
+
+- #### 24단계 : 이분 탐색_ ~ing 
+  1. [**1920번**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/baekjoon_step24/Baekjoon1920.java>) : 수 찾기
+  2. [**10816번**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/baekjoon_step24/Baekjoon10816.java>) : 숫자 카드 2 ★
 ***
 - #### 기타 문제
     - 프로그래머스 2020 devmatching
