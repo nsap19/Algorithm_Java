@@ -241,9 +241,10 @@
         - [**2번 문제**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/etc/Programmers_2020_summercoding_2.java>)
         - [**4번 문제**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/etc/Programmers_2020_summercoding_4.sql>)
 
+    - 프로그래머스 2019 카카오 개발자 겨울 인턴
+        - [**1번 문제**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/etc/kakao_winter_internship2019_1.java>)
 
-
-
+       
  
 
 
