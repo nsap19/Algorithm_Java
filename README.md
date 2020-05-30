@@ -226,6 +226,9 @@
 - #### 24단계 : 이분 탐색_ ~ing 
   1. [**1920번**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/baekjoon_step24/Baekjoon1920.java>) : 수 찾기
   2. [**10816번**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/baekjoon_step24/Baekjoon10816.java>) : 숫자 카드 2 ★
+  3. [**1654번**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/baekjoon_step24/Baekjoon1654.java>) : 랜선 자르기
+
+
 ***
 - #### 기타 문제
     - 프로그래머스 2020 devmatching
