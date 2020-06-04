@@ -223,13 +223,15 @@
   9. [**6549번**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/baekjoon_step23/Baekjoon6549.java>) : 히스토그램에서 가장 큰 직사각형 ★★ (진행중)
 
 
-- #### 24단계 : 이분 탐색_ ~ing 
+- #### 24단계 : 이분 탐색_ Finished 
   1. [**1920번**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/baekjoon_step24/Baekjoon1920.java>) : 수 찾기
   2. [**10816번**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/baekjoon_step24/Baekjoon10816.java>) : 숫자 카드 2 ★
   3. [**1654번**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/baekjoon_step24/Baekjoon1654.java>) : 랜선 자르기
   4. [**2805번**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/baekjoon_step24/Baekjoon2805.java>) : 나무 자르기
   5. [**2110번**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/baekjoon_step24/Baekjoon2110.java>) : 공유기 설치 ★
   6. [**1300번**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/baekjoon_step24/Baekjoon1300.java>) : k번째 수 ★
+  7. [**12015번**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/baekjoon_step24/Baekjoon12015.java>) : 가장 긴 증가하는 부분 수열 2 
+
 
 
 ***
