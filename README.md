@@ -227,6 +227,9 @@
   1. [**1920번**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/baekjoon_step24/Baekjoon1920.java>) : 수 찾기
   2. [**10816번**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/baekjoon_step24/Baekjoon10816.java>) : 숫자 카드 2 ★
   3. [**1654번**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/baekjoon_step24/Baekjoon1654.java>) : 랜선 자르기
+  4. [**2805번**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/baekjoon_step24/Baekjoon2805.java>) : 나무 자르기
+  5. [**2110번**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/baekjoon_step24/Baekjoon2110.java>) : 공유기 설치 ★
+  6. [**1300번**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/baekjoon_step24/Baekjoon1300.java>) : k번째 수 ★
 
 
 ***
