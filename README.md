@@ -234,6 +234,9 @@
 
 - #### 25단계 : 우선순위 큐_ ~ing 
   1. [**11279번**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/baekjoon_step25/Baekjoon11279.java>) : 최대 힙
+  2. [**1927번**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/baekjoon_step25/Baekjoon1927.java>) : 최소 힙
+  3. [**11286번**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/baekjoon_step25/Baekjoon11286.java>) : 절대값 힙 
+
 
 
 
