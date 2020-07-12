@@ -265,6 +265,9 @@
     - 프로그래머스 코딩테스트 연습 Level_1
         - [**문자열 내림차순으로 배치하기**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/etc/Programmers_Lv1_2.java>)
         - [**시저 암호**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/etc/Programmers_Lv1_1.java>)
+        - [**완주하지 못한 선수**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/etc/Programmers_Lv1_3.java>)
+        - [**모의고사**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/etc/Programmers_Lv1_4.java>)
+
 
 
  
