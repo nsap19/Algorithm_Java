@@ -1,7 +1,7 @@
 # BaekJoon_Java 
 (README 출처 : @audtjr9514)
 
-@audtjr9514 @seyeonn 명석&세연이와 함께하는 자바로 풀어보는 백준 알고리즘 단계별 - 효율적으로 하고있는지는 모르겠지만 일단 풀어본다
+@audtjr9514 @seyeonn @hyeonic 명석&세연&기현이와 함께하는 자바로 풀어보는 백준 알고리즘 단계별 - 효율적으로 하고있는지는 모르겠지만 일단 풀어본다
 ### 단계별 풀이
 
 - #### 1단계 : 입출력과 사칙연산 _  Finished
@@ -266,8 +266,6 @@
         - [**문자열 내림차순으로 배치하기**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/etc/Programmers_Lv1_2.java>)
         - [**시저 암호**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/etc/Programmers_Lv1_1.java>)
         - [**완주하지 못한 선수**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/etc/Programmers_Lv1_3.java>)
-        - [**모의고사**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/etc/Programmers_Lv1_4.java>)
-
 
 
  
