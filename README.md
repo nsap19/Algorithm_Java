@@ -271,6 +271,7 @@
         6. [**2016년**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/etc/Programmers_Lv1_6.java>)
         7. [**가운데 글자 가져오기**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/etc/Programmers_Lv1_7.java>)
         8. [**같은 숫자는 싫어**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/etc/Programmers_Lv1_8.java>)
+        9. [**나누어 떨어지는 숫자 배열**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/etc/Programmers_Lv1_9.java>)
 
  
 
