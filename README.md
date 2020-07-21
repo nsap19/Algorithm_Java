@@ -241,9 +241,9 @@
 - #### 26단계 : 동적 계획법 2_ ~ing
   1. [**2293번**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/baekjoon_step26/Baekjoon2293.java>) : 동전 1
   2. [**11066번**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/baekjoon_step26/Baekjoon11066.java>) : 파일 합치기 ★★
+  3. [**11049번**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/baekjoon_step26/Baekjoon11049.java>) : 행렬 곱셈 순서 ★★
 
 	
-
 ***
 - #### 기타 문제
     - 프로그래머스 2020 devmatching

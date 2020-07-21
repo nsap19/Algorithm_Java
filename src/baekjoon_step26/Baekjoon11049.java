@@ -24,13 +24,15 @@ public class Baekjoon11049 {
                 dp[j][j + i] = Integer.MAX_VALUE;
                 for (int k = 0; k < i; k++) {
                     int cost = dp[j][j + k] + dp[j + k + 1][j + i] + a[j][0] * a[j + k][1] * a[j + i][1];
+//                    System.out.println("cost : dp["+j+"]["+(j+k)+"] + dp["+(j+k+1)+"]["+(j+i)+"] + a["+j+"][0] * a["+(j+k)+"][1] * a["+(j+i)+"][1]");
+//                    System.out.println("= "+dp[j][j + k]+" + "+ dp[j + k + 1][j + i] +" + "+ a[j][0] +" * "+ a[j + k][1] +" * "+ a[j + i][1]);
 //                    System.out.println(i+" "+j+" "+k);
 //                    System.out.println(cost+" "+dp[j][j+1]);
                     dp[j][j + i] = Math.min(dp[j][j + i], cost);
                 }
             }
         }
-        bw.write(dp[0][n-1] + "\n");
+        bw.write(dp[0][n - 1] + "\n");
 
         bw.close();
     }
