@@ -243,6 +243,7 @@
   2. [**11066번**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/baekjoon_step26/Baekjoon11066.java>) : 파일 합치기 ★★
   3. [**11049번**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/baekjoon_step26/Baekjoon11049.java>) : 행렬 곱셈 순서 ★★
   4. [**1520번**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/baekjoon_step26/Baekjoon1520.java>) : 내리막 길 ★
+  4. [**7579번**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/baekjoon_step26/Baekjoon7579.java>) : 앱 ★
 
 	
 ***
@@ -277,6 +278,7 @@
         11. [**두 정수 사이의 합**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/etc/Programmers_Lv1_11.java>)
         12. [**문자열 내 마음대로 정렬하기**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/etc/Programmers_Lv1_12.java>)
         13. [**문자열 내 p와 y의 개수**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/etc/Programmers_Lv1_13.java>)
+        14. [**문자열 다루기 기본**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/etc/Programmers_Lv1_14.java>)
 
 
   
