@@ -279,6 +279,10 @@
         12. [**문자열 내 마음대로 정렬하기**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/etc/Programmers_Lv1_12.java>)
         13. [**문자열 내 p와 y의 개수**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/etc/Programmers_Lv1_13.java>)
         14. [**문자열 다루기 기본**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/etc/Programmers_Lv1_14.java>)
+        15. [**서울에서 김서방 찾기**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/etc/Programmers_Lv1_15.java>)
+        16. [**소수 찾기**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/etc/Programmers_Lv1_16.java>)
+        17. [**수박수박수박수박수박수?**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/etc/Programmers_Lv1_17.java>)
+
 
 
   
