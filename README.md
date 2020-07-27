@@ -238,14 +238,24 @@
   3. [**11286번**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/baekjoon_step25/Baekjoon11286.java>) : 절대값 힙 
   4. [**1655번**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/baekjoon_step25/Baekjoon1655.java>) : 가운데를 말해요
 
-- #### 26단계 : 동적 계획법 2_ ~ing
+- #### 26단계 : 동적 계획법 2_ Finished
   1. [**2293번**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/baekjoon_step26/Baekjoon2293.java>) : 동전 1
   2. [**11066번**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/baekjoon_step26/Baekjoon11066.java>) : 파일 합치기 ★★
   3. [**11049번**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/baekjoon_step26/Baekjoon11049.java>) : 행렬 곱셈 순서 ★★
   4. [**1520번**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/baekjoon_step26/Baekjoon1520.java>) : 내리막 길 ★
   4. [**7579번**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/baekjoon_step26/Baekjoon7579.java>) : 앱 ★
+  5. [**10942번**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/baekjoon_step26/Baekjoon10942.java>) : 팰린드롬?
 
-	
+- #### 27단계 : 실습 5
+   - 아직 준비중
+   
+- #### 28단계 : DFS와 BFS_ ~ing
+  1. [**1260번**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/baekjoon_step28/Baekjoon1260.java>) : DFS와 BFS
+  
+
+
+
+
 ***
 - #### 기타 문제
     - 프로그래머스 2020 devmatching
@@ -282,6 +292,7 @@
         15. [**서울에서 김서방 찾기**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/etc/Programmers_Lv1_15.java>)
         16. [**소수 찾기**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/etc/Programmers_Lv1_16.java>)
         17. [**수박수박수박수박수박수?**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/etc/Programmers_Lv1_17.java>)
+        18. [**이상한 문자 만들기**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/etc/Programmers_Lv1_18.java>)
 
 
 
