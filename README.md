@@ -251,7 +251,10 @@
    
 - #### 28단계 : DFS와 BFS_ ~ing
   1. [**1260번**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/baekjoon_step28/Baekjoon1260.java>) : DFS와 BFS
+  2. [**2606번**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/baekjoon_step28/Baekjoon2606.java>) : 바이러스
+  3. [**2667번**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/baekjoon_step28/Baekjoon2667.java>) : 단지번호붙이기
   
+
 
 
 
