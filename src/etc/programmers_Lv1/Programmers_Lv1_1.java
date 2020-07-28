@@ -21,7 +21,7 @@
 대문자는 대문자끼리, 소문자는 소문자끼리 순환해야하기때문에 초반에 start를 구해줘서 계산함
 * */
 
-package etc;
+package etc.programmers_Lv1;
 
 import java.io.*;
 

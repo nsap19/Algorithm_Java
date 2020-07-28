@@ -9,7 +9,7 @@
 n은 2이상 1000000이하의 자연수입니다.
 */
 
-package etc;
+package etc.programmers_Lv1;
 
 import java.io.*;
 

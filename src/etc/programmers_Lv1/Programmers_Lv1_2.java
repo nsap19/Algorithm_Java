@@ -7,7 +7,7 @@
 //        입출력 예
 //        s	        return
 //        Zbcdefg	gfedcbZ
-package etc;
+package etc.programmers_Lv1;
 
 import java.io.*;
 import java.util.Arrays;

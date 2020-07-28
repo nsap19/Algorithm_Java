@@ -15,7 +15,7 @@ commands의 길이는 1 이상 50 이하입니다.
 commands의 각 원소는 길이가 3입니다.
 * */
 
-package etc;
+package etc.programmers_Lv1;
 
 import java.io.*;
 import java.util.*;

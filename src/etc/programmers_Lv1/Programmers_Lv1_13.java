@@ -9,7 +9,7 @@
 문자열 s는 알파벳으로만 이루어져 있습니다.
 * */
 
-package etc;
+package etc.programmers_Lv1;
 
 import java.io.*;
 

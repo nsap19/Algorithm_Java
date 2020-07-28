@@ -11,7 +11,7 @@ strings의 원소는 길이 1 이상, 100이하인 문자열입니다.
 *
 */
 
-package etc;
+package etc.programmers_Lv1;
 
 import java.io.*;
 import java.util.*;

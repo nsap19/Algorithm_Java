@@ -6,7 +6,7 @@
 s는 길이 1 이상, 길이 8 이하인 문자열입니다.
 * */
 
-package etc;
+package etc.programmers_Lv1;
 
 import java.io.*;
 

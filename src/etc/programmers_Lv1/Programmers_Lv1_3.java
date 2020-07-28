@@ -13,7 +13,7 @@ completion의 길이는 participant의 길이보다 1 작습니다.
     [marina, josipa, nikola, vinko, filipa] |   [josipa, filipa, marina, nikola]    |   vinko
     [mislav, stanko, mislav, ana]   |   [stanko, ana, mislav]   |   mislav
 * */
-package etc;
+package etc.programmers_Lv1;
 
 import java.io.*;
 import java.util.Arrays;

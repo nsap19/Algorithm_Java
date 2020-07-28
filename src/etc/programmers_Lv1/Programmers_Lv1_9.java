@@ -8,7 +8,7 @@ arr은 자연수를 담은 배열입니다.
 divisor는 자연수입니다.
 array는 길이 1 이상인 배열입니다.
 * */
-package etc;
+package etc.programmers_Lv1;
 
 import java.io.*;
 import java.util.*;

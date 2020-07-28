@@ -12,7 +12,7 @@
 문제의 정답은 1, 2, 3, 4, 5중 하나입니다.
 가장 높은 점수를 받은 사람이 여럿일 경우, return하는 값을 오름차순 정렬해주세요.
 * */
-package etc;
+package etc.programmers_Lv1;
 
 import java.io.*;
 import java.util.*;

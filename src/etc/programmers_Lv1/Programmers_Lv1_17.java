@@ -5,7 +5,7 @@
 제한 조건
 n은 길이 10,000이하인 자연수입니다.
 */
-package etc;
+package etc.programmers_Lv1;
 
 import java.io.*;
 

@@ -9,7 +9,7 @@ arr = [4, 4, 4, 3, 3] 이면 [4, 3] 을 return 합니다.
 배열 arr의 크기 : 1,000,000 이하의 자연수
 배열 arr의 원소의 크기 : 0보다 크거나 같고 9보다 작거나 같은 정수
 * */
-package etc;
+package etc.programmers_Lv1;
 
 import java.io.*;
 import java.util.*;
