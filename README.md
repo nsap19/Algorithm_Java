@@ -254,6 +254,8 @@
   2. [**2606번**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/baekjoon_step28/Baekjoon2606.java>) : 바이러스
   3. [**2667번**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/baekjoon_step28/Baekjoon2667.java>) : 단지번호붙이기
   4. [**1012번**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/baekjoon_step28/Baekjoon1012.java>) : 유기농 배추
+  5. [**2178번**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/baekjoon_step28/Baekjoon2178.java>) : 미로 탐색 ★
+  6. [**7576번**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/baekjoon_step28/Baekjoon7576.java>) : 토마토
 
 
 
@@ -298,6 +300,7 @@
         17. [**수박수박수박수박수박수?**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/etc/programmers_Lv1/Programmers_Lv1_17.java>)
         18. [**이상한 문자 만들기**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/etc/programmers_Lv1/Programmers_Lv1_18.java>)
         19. [**제일 작은 수 제거하기**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/etc/programmers_Lv1/Programmers_Lv1_19.java>)
+        20. [**비밀지도**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/etc/programmers_Lv1/Programmers_Lv1_20.java>)
 
 
 
