@@ -19,10 +19,10 @@ public class Baekjoon11049 {
         }
 
 
-        for (int i = 1; i < n; i++) {
-            for (int j = 0; j < n - i; j++) {
+        for (int i = 1; i < n; i++) { //곱할 행렬 갯수
+            for (int j = 0; j < n - i; j++) { //i개 행렬을 곱할 때 나올수 있는 경우의 수
                 dp[j][j + i] = Integer.MAX_VALUE;
-                for (int k = 0; k < i; k++) {
+                for (int k = 0; k < i; k++) { //i개 행렬을 곱할 때 쪼개는 for문
                     int cost = dp[j][j + k] + dp[j + k + 1][j + i] + a[j][0] * a[j + k][1] * a[j + i][1];
 //                    System.out.println("cost : dp["+j+"]["+(j+k)+"] + dp["+(j+k+1)+"]["+(j+i)+"] + a["+j+"][0] * a["+(j+k)+"][1] * a["+(j+i)+"][1]");
 //                    System.out.println("= "+dp[j][j + k]+" + "+ dp[j + k + 1][j + i] +" + "+ a[j][0] +" * "+ a[j + k][1] +" * "+ a[j + i][1]);
