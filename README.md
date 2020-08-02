@@ -301,7 +301,10 @@
         18. [**이상한 문자 만들기**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/etc/programmers_Lv1/Programmers_Lv1_18.java>)
         19. [**제일 작은 수 제거하기**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/etc/programmers_Lv1/Programmers_Lv1_19.java>)
         20. [**비밀지도**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/etc/programmers_Lv1/Programmers_Lv1_20.java>)
-        20. [**실패율**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/etc/programmers_Lv1/Programmers_Lv1_21.java>)
+        21. [**실패율**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/etc/programmers_Lv1/Programmers_Lv1_21.java>)
+
+    - 기타 코테
+        - [**1번 문제**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/etc/CodingTest1.java>)
 
 
 
