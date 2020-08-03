@@ -256,6 +256,7 @@
   4. [**1012번**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/baekjoon_step28/Baekjoon1012.java>) : 유기농 배추
   5. [**2178번**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/baekjoon_step28/Baekjoon2178.java>) : 미로 탐색 ★
   6. [**7576번**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/baekjoon_step28/Baekjoon7576.java>) : 토마토
+  6. [**7569번**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/baekjoon_step28/Baekjoon7569.java>) : 토마토
 
 
 
