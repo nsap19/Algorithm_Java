@@ -249,14 +249,17 @@
 - #### 27단계 : 실습 5
    - 아직 준비중
    
-- #### 28단계 : DFS와 BFS_ ~ing
+- #### 28단계 : DFS와 BFS_ Finished
   1. [**1260번**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/baekjoon_step28/Baekjoon1260.java>) : DFS와 BFS
   2. [**2606번**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/baekjoon_step28/Baekjoon2606.java>) : 바이러스
   3. [**2667번**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/baekjoon_step28/Baekjoon2667.java>) : 단지번호붙이기
   4. [**1012번**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/baekjoon_step28/Baekjoon1012.java>) : 유기농 배추
   5. [**2178번**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/baekjoon_step28/Baekjoon2178.java>) : 미로 탐색 ★
-  6. [**7576번**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/baekjoon_step28/Baekjoon7576.java>) : 토마토
-  6. [**7569번**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/baekjoon_step28/Baekjoon7569.java>) : 토마토
+  6. [**7576번**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/baekjoon_step28/Baekjoon7576.java>) : 토마토 ★
+  7. [**7569번**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/baekjoon_step28/Baekjoon7569.java>) : 토마토 
+  8. [**1697번**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/baekjoon_step28/Baekjoon1697.java>) : 숨바꼭질 ★
+  9. [**2206번**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/baekjoon_step28/Baekjoon2206.java>) : 벽 부수고 이동하기 ★
+
 
 
 
