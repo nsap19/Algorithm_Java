@@ -312,6 +312,9 @@
         22. [**다트게임**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/etc/programmers_Lv1/etc.programmers_Lv1.Programmers_Lv1_22.java>)
         23. [**키패드 누르기**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/etc/programmers_Lv1/etc.programmers_Lv1.Programmers_Lv1_23.java>)
 
+    - 프로그래머스 코딩테스트 연습 Level_1
+        1. [**124 나라의 숫자**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/etc/programmers_Lv2/Programmers_Lv2_1.java>)
+
     - 기타 코테
         - [**1번 문제**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/etc/CodingTest1.java>)
         - [**2번 문제**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/etc/CodingTest2.java>)
