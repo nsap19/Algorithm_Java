@@ -318,6 +318,7 @@
     - 기타 코테
         - [**1번 문제**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/etc/CodingTest1.java>)
         - [**2번 문제**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/etc/CodingTest2.java>)
+        - [**3번 문제**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/etc/CodingTest3.java>) (진행중)
 
 
 
