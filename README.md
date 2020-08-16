@@ -264,11 +264,8 @@
   1. [**1753번**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/baekjoon_step29/Baekjoon1753.java>) : 최단경로 ([**주석**](<https://github.com/nsap19/Algorithm_Java/blob/master/remark/최단경로(다익스트라 알고리즘).jpg>)) ★
   2. [**1504번**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/baekjoon_step29/Baekjoon1753.java>) : 특정한 최단 경로
   3. [**9370번**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/baekjoon_step29/Baekjoon9370.java>) : 미확인 도착지 ★
-  4.
-   - 참고 : [**9370번**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/baekjoon_step29/Baekjoon1865.java>) : 웜홀 ([**주석**](<https://github.com/nsap19/Algorithm_Java/blob/master/remark/웜홀(벨만포드 알고리즘).jpg>))★ 
-
-
-
+  4. [**11657번**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/baekjoon_step29/Baekjoon11657.java>) : 타임머신
+   - 참고 : [**1865번**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/baekjoon_step29/Baekjoon1865.java>) : 웜홀 ([**주석**](<https://github.com/nsap19/Algorithm_Java/blob/master/remark/웜홀(벨만포드 알고리즘).jpg>))★ 
 
 
 
@@ -317,11 +314,13 @@
 
     - 프로그래머스 코딩테스트 연습 Level_1
         1. [**124 나라의 숫자**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/etc/programmers_Lv2/Programmers_Lv2_1.java>)
+        2. [**주식가격**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/etc/programmers_Lv2/Programmers_Lv2_2.java>)
+        3. [**기능개발**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/etc/programmers_Lv2/Programmers_Lv2_3.java>)
 
     - 기타 코테
         - [**1번 문제**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/etc/CodingTest1.java>)
         - [**2번 문제**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/etc/CodingTest2.java>)
-        - [**3번 문제**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/etc/CodingTest3.java>) (진행중)
+        - [**3번 문제**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/etc/CodingTest3.java>) ★
 
 
 
