@@ -318,7 +318,8 @@
         2. [**주식가격**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/etc/programmers_Lv2/Programmers_Lv2_2.java>)
         3. [**기능개발**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/etc/programmers_Lv2/Programmers_Lv2_3.java>)
         4. [**프린터**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/etc/programmers_Lv2/Programmers_Lv2_4.java>)
-        4. [**다리를 지나는 트럭**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/etc/programmers_Lv2/Programmers_Lv2_5.java>)
+        5. [**다리를 지나는 트럭**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/etc/programmers_Lv2/Programmers_Lv2_5.java>)
+        6. [**멀쩡한 사각형**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/etc/programmers_Lv2/Programmers_Lv2_6.java>)
 
     - 기타 코테
         - [**1번 문제**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/etc/CodingTest1.java>)
