@@ -1,0 +1,75 @@
+package baekjoon_step29;
+
+import java.io.*;
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.List;
+import java.util.StringTokenizer;
+
+public class Baekjoon10217 {
+    static class Airplane implements Comparable<Airplane> {
+        int end, cost, time; //도착, 비용, 소요시간
+
+        public Airplane(int end, int cost, int time) {
+            this.end = end;
+            this.cost = cost;
+            this.time = time;
+        }
+
+        @Override
+        public int compareTo(Airplane o) {
+            if (this.time == o.time) return cost - o.cost;
+            return this.time - o.time;
+        }
+    }
+
+    private static final BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+    private static final BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
+    private static final int INF = 100 * 1_000;
+    static int n, m, k;
+    static List<Airplane>[] list;
+    static int[][] dp;
+
+    public static void main(String[] args) throws IOException {
+        int t = Integer.parseInt(br.readLine());
+
+        for (int T = 0; T < t; T++) {
+            init();
+
+            int result = dijkstra();
+            bw.write(result != INF ? result + "\n" : "Poor KCM\n");
+        }
+        bw.close();
+    }
+
+    public static int dijkstra() {
+
+        return 0;
+    }
+
+    private static void init() throws IOException {
+        StringTokenizer st = new StringTokenizer(br.readLine());
+        n = Integer.parseInt(st.nextToken()); //공항의 수
+        m = Integer.parseInt(st.nextToken()); //총 지원 비용
+        k = Integer.parseInt(st.nextToken()); //티켓 정보의 수
+
+        dp = new int[n + 1][m + 1];
+        list = new ArrayList[n + 1];
+
+        for (int i = 0; i <= n; i++) {
+            Arrays.fill(dp[i], INF);
+            list[i] = new ArrayList<>();
+        }
+
+        for (int i = 0; i < k; i++) {
+            st = new StringTokenizer(br.readLine());
+
+            int start = Integer.parseInt(st.nextToken());
+            int end = Integer.parseInt(st.nextToken());
+            int cost = Integer.parseInt(st.nextToken());
+            int time = Integer.parseInt(st.nextToken());
+
+            list[start].add(new Airplane(end, cost, time));
+        }
+    }
+}
