@@ -1,10 +1,7 @@
 package baekjoon_step29;
 
 import java.io.*;
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.List;
-import java.util.StringTokenizer;
+import java.util.*;
 
 public class Baekjoon10217 {
     static class Airplane implements Comparable<Airplane> {
@@ -32,19 +29,54 @@ public class Baekjoon10217 {
 
     public static void main(String[] args) throws IOException {
         int t = Integer.parseInt(br.readLine());
+        StringBuilder sb = new StringBuilder();
 
         for (int T = 0; T < t; T++) {
             init();
-
             int result = dijkstra();
-            bw.write(result != INF ? result + "\n" : "Poor KCM\n");
+            sb.append(result != INF ? result + "\n" : "Poor KCM\n");
         }
+        bw.write(sb.toString());
         bw.close();
     }
 
     public static int dijkstra() {
+        PriorityQueue<Airplane> queue = new PriorityQueue<>();
+        queue.add(new Airplane(1, 0, 0));
+        dp[1][0] = 0;
 
-        return 0;
+        while (!queue.isEmpty()) {
+            Airplane airplane = queue.poll();
+            int node = airplane.end;
+            int cost = airplane.cost;
+            int time = airplane.time;
+
+            if (node == n) break;
+            if (dp[node][cost] < time) continue;
+            dp[node][cost] = time;
+
+            for (int i = 0; i < list[node].size(); i++) {
+                Airplane toAirplane = list[node].get(i);
+                int toNode = toAirplane.end;
+                int toCost = cost + toAirplane.cost;
+                int toTime = time + toAirplane.time;
+
+                if (toCost > m) break;
+                if (dp[toNode][toCost] > toTime) { //불필요한 push를 막기 위함
+                    for (int j = toCost; j <= m; j++) {
+                        if (dp[toNode][j] > toTime) dp[toNode][j] = toTime;
+                    }
+                    queue.add(new Airplane(toNode, toCost, toTime));
+                }
+            }
+        }
+
+        int result = Integer.MAX_VALUE;
+
+        for (int i = 0; i <= m; i++)
+            result = Math.min(result, dp[n][i]);
+
+        return result;
     }
 
     private static void init() throws IOException {
