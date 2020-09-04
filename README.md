@@ -260,14 +260,15 @@
   8. [**1697번**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/baekjoon_step28/Baekjoon1697.java>) : 숨바꼭질 ★
   9. [**2206번**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/baekjoon_step28/Baekjoon2206.java>) : 벽 부수고 이동하기 ★
 
-- #### 29단계 : 최단 경로_ ~ing
+- #### 29단계 : 최단 경로_ Finished
   1. [**1753번**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/baekjoon_step29/Baekjoon1753.java>) : 최단경로 ([**주석**](<https://github.com/nsap19/Algorithm_Java/blob/master/remark/최단경로(다익스트라 알고리즘).jpg>)) ★
   2. [**1504번**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/baekjoon_step29/Baekjoon1753.java>) : 특정한 최단 경로
   3. [**9370번**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/baekjoon_step29/Baekjoon9370.java>) : 미확인 도착지 ★
   4. [**11657번**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/baekjoon_step29/Baekjoon11657.java>) : 타임머신
    - 참고 : [**1865번**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/baekjoon_step29/Baekjoon1865.java>) : 웜홀 ([**주석**](<https://github.com/nsap19/Algorithm_Java/blob/master/remark/웜홀(벨만포드 알고리즘).jpg>))★ 
   5. [**11404번**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/baekjoon_step29/Baekjoon11404.java>) : 플로이드
-
+  6. [**10217번**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/baekjoon_step29/Baekjoon10217.java>) : KCM Travel
+  7. [**1956번**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/baekjoon_step29/Baekjoon1956.java>) : 운동
 
 
 ***

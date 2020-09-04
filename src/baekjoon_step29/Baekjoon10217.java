@@ -61,7 +61,7 @@ public class Baekjoon10217 {
                 int toCost = cost + toAirplane.cost;
                 int toTime = time + toAirplane.time;
 
-                if (toCost > m) break;
+                if (toCost > m) continue;
                 if (dp[toNode][toCost] > toTime) { //불필요한 push를 막기 위함
                     for (int j = toCost; j <= m; j++) {
                         if (dp[toNode][j] > toTime) dp[toNode][j] = toTime;
@@ -73,7 +73,7 @@ public class Baekjoon10217 {
 
         int result = Integer.MAX_VALUE;
 
-        for (int i = 0; i <= m; i++)
+        for (int i = 1; i <= m; i++)
             result = Math.min(result, dp[n][i]);
 
         return result;
@@ -88,10 +88,12 @@ public class Baekjoon10217 {
         dp = new int[n + 1][m + 1];
         list = new ArrayList[n + 1];
 
-        for (int i = 0; i <= n; i++) {
+        for (int i = 0; i <= n; i++)
             Arrays.fill(dp[i], INF);
+
+        for (int i = 0; i <= n; i++)
             list[i] = new ArrayList<>();
-        }
+
 
         for (int i = 0; i < k; i++) {
             st = new StringTokenizer(br.readLine());
