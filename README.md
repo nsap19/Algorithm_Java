@@ -281,6 +281,9 @@
     - 2020 카카오 인턴십
        - [**1번 문제**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/etc/kakao_internship2020_1.java>)
 
+    - 2020 KAKAO BLIND RECRUITMENT
+        - [**문자열 압축**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/etc/kakao_blind_2020_1.java>)
+
     - 프로그래머스 2020 summer coding
         - [**1번 문제**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/etc/Programmers_2020_summercoding_1.java>)
         - [**2번 문제**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/etc/Programmers_2020_summercoding_2.java>)
