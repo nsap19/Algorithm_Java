@@ -270,6 +270,8 @@
   6. [**10217번**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/baekjoon_step29/Baekjoon10217.java>) : KCM Travel
   7. [**1956번**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/baekjoon_step29/Baekjoon1956.java>) : 운동
 
+- #### 30단계 : 동적 계획법_ ~ing
+  1. [**11723번**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/baekjoon_step30/Baekjoon11723.java>) : 집합(비트마스크)
 
 ***
 - #### 기타 문제
