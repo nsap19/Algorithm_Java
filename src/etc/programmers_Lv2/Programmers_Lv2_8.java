@@ -22,20 +22,31 @@ public class Programmers_Lv2_8 {
         int maxNum = 0;
         for (int i = n; i > 0; i--) maxNum += i;
 
-        int x = 0;
-        int y = 0;
+        int x = 0, y = 0;
+        arr[0][0] = 1;
+        int nx, ny;
         int temp = 0;
-        for (int i = 1; i <= maxNum; i++) {
-            System.out.println(x + " " + y);
-            if (x < n && y < n && arr[x][y] == 0) {
-                arr[x][y] = i;
+        for (int i = 2; i <= maxNum; i++) {
+            nx = x + dx[temp];
+            ny = y + dy[temp];
 
-            } else {
-                temp++;
-                if (temp == 3) temp -= 3;
+            if (nx < 0 || nx >= n || ny < 0 || ny >= n || arr[nx][ny] != 0) {
+                temp = (temp + 1) % 3;
+                nx = x + dx[temp];
+                ny = y + dy[temp];
             }
-            x += dx[temp];
-            y += dy[temp];
+
+            x = nx;
+            y = ny;
+            arr[nx][ny] = i;
+        }
+
+        answer = new int[maxNum];
+        temp=0;
+        for (int i = 0; i < arr.length; i++) {
+            for (int j = 0; j < arr[i].length; j++) {
+                if(arr[i][j]!=0) answer[temp++] = arr[i][j];
+            }
         }
 
 
