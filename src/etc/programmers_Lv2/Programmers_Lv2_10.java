@@ -1,47 +1,70 @@
 package etc.programmers_Lv2;
 
 import java.io.*;
-import java.util.Arrays;
-import java.util.Collections;
+import java.util.ArrayList;
+import java.util.Iterator;
 
 public class Programmers_Lv2_10 {
+    static ArrayList<Integer> arrayList = new ArrayList<>();
+
     public static void main(String[] args) throws IOException {
-        System.out.println(solution("17"));
+        System.out.println(solution("011"));
 
     }
 
-    public static int solution(String numbers) {
+    public static int solution(String numbers) throws IOException {
         int answer = 0;
 
-        String[] numArr = numbers.split("");
-        Arrays.sort(numArr, Collections.reverseOrder());
-        String maxStr = "";
-        for (int i = 0; i < numArr.length; i++) maxStr += numArr[i];
-
-        int max = Integer.parseInt(maxStr);
-        int min = Integer.parseInt(numArr[numArr.length-1]);
-        boolean[] nums = new boolean[max+1];
-
-        //에라토스테네스의 체를 이용하여 max까지의 소수들을 구함
-        int temp = 0; //배수를 돌릴 기준 ex) 1~120이면 11*11 >120이기 때문에 11보다 작은 수의 배수들만 지워도 충분하다
-        for (int i = 0; i < max; i++) {
-            if (i * i <= max) temp = i + 1;
-            else break;
+        int n = numbers.length(); //뽑는 수의 갯수
+        int[] arr = new int[n];
+        boolean[] visited = new boolean[n];
+        for (int i = 0; i < n; i++) {
+            arr[i] = numbers.charAt(i) - '0';
         }
 
-        for (int i = 2; i < temp; i++) {
-            for (int j = 2; i * j <= max; j++) {
-                nums[i * j] = true;
+        for (int i = 1; i <= n; i++) {
+            int[] result = new int[i];
+            permutation(arr, result, visited, 0, n, i);
+        }
+
+        Iterator<Integer> it = arrayList.iterator();
+        while (it.hasNext()) {
+            int num = it.next();
+            int check = 0; //약수 쌍의 갯수
+
+            for (int j = 1; j < num; j++) {
+                if (num % j == 0) check++; // 소수는 자신보다 작은 두 개의 자연수를 곱하여 만들 수 없는 1보다 큰 자연수
             }
-        }
-
-        for (int i = min; i <= max; i++) {
-            if (i > 1 && nums[i] == false){
-                String iStr = String.valueOf(i);
+            if (num > 1 && check == 1) {
+                answer++;
             }
         }
 
         return answer;
     }
 
+    private static void permutation(int[] arr, int[] result, boolean[] visited, int depth, int n, int m) throws IOException { //순열(순서있게 배열)
+        if (depth == m) { //depth가 뽑아야하는 수와 같아지면 출력
+            print(result, m);
+            return;
+        }
+
+        for (int i = 0; i < n; i++) { //visit 검사를 위한 for문
+            if (visited[i] != true) {
+                visited[i] = true;
+                result[depth] = arr[i];
+                permutation(arr, result, visited, depth + 1, n, m);
+                visited[i] = false;
+            }
+        }
+    }
+
+    private static void print(int[] result, int m) {
+        String numString = "";
+        for (int i = 0; i < m; i++) {
+            numString += String.valueOf(result[i]);
+        }
+        int num = Integer.parseInt(numString);
+        if(!arrayList.contains(num)) arrayList.add(num);
+    }
 }
