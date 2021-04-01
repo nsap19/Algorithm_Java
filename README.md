@@ -275,6 +275,7 @@
 
 ***
 - #### 기타 문제
+    <!-- 
     - 프로그래머스 2020 devmatching(상반기)
         - [**1번 문제**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/etc/Programmers_2020_devmatching_1.java>)
         - [**2번 문제**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/etc/Programmers_2020_devmatching_2.java>)
@@ -282,21 +283,26 @@
 
     - 프로그래머스 2020 devmatching(하반기)
         - [**4번 문제**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/etc/Programmers_2020_2_devmatching_4.java>)
+    -->
 
     - 2020 카카오 인턴십
        - [**1번 문제**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/etc/kakao_internship2020_1.java>)
 
     - 2020 KAKAO BLIND RECRUITMENT
         - [**문자열 압축**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/etc/kakao_blind_2020_1.java>)
+        - [**괄호 변환**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/etc/programmers_Lv2/Programmers_Lv2_13.java>) 
 
-    - 2021 KAKAO BLINK RECRUITMENT (1차)
+    - 2021 KAKAO BLIND RECRUITMENT (1차)
         - [**신규 아이디 추천**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/etc/kakao_blind_2021_1/Kb21_1.java>)
+        - [**메뉴 리뉴얼**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/etc/kakao_blind_2021_1/Kb21_2.java>) ★
 
+    <!--
     - 프로그래머스 2020 summer coding
         - [**1번 문제**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/etc/Programmers_2020_summercoding_1.java>)
         - [**2번 문제**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/etc/Programmers_2020_summercoding_2.java>)
         - [**4번 문제**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/etc/Programmers_2020_summercoding_4.sql>)
-
+    -->
+    
     - 프로그래머스 2019 카카오 개발자 겨울 인턴
         - [**1번 문제**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/etc/kakao_winter_internship2019_1.java>)
         
@@ -343,13 +349,14 @@
         13. [**괄호 변환**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/etc/programmers_Lv2/Programmers_Lv2_13.java>) 
         14. [**큰 수 만들기**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/etc/programmers_Lv2/Programmers_Lv2_14.java>) ★
 
+    <!--
     - 기타 코테
         - [**1번 문제**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/etc/CodingTest1.java>)
         - [**2번 문제**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/etc/CodingTest2.java>)
         - [**3번 문제**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/etc/CodingTest3.java>) ★
         - [**4번 문제**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/etc/Liner_2020_1.java>) 
         - [**5번 문제**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/etc/Liner_2020_2.java>) 
-
+    -->
 
 
   
