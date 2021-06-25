@@ -30,14 +30,26 @@ public class Programmers_Lv1_3 {
     }
 
     public static String solution(String[] participant, String[] completion) {
-        String answer = "";
+            //hash를 사용한 풀이
+//         HashMap<String, Integer> map = new HashMap<>();
 
+//         for(String arg : participant) map.put(arg, map.getOrDefault(arg,0)+1);
+
+//         for(String arg : completion) map.put(arg, map.get(arg)-1);
+
+//         for(String key : map.keySet()){
+//             if(map.get(key) != 0) return key;
+//         }
+
+//         return null;
+
+        //기존 내 풀이
         Arrays.sort(participant);
         Arrays.sort(completion);
 
         int i;
-        for (i = 0; i < completion.length; i++) {
-            if (!participant[i].equals(completion[i])) {
+        for(i=0; i<completion.length; i++){
+            if(!participant[i].equals(completion[i])){
                 return participant[i];
             }
         }
