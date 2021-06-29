@@ -1,7 +1,10 @@
-# BaekJoon_Java 
+# Algorithm_Java
 (README 출처 : @audtjr9514)
 
 자바로 풀어보는 백준 알고리즘 단계별 - 효율적으로 하고있는지는 모르겠지만 일단 풀어본다
+- ### 참고자료 정리
+  - [**자바 컬렉션 정리.md**](<https://github.com/nsap19/Algorithm_Java/blob/master/remark/%EC%9E%90%EB%B0%94%20%EC%BB%AC%EB%A0%89%EC%85%98%20%EC%A0%95%EB%A6%AC.md>)
+  - [**정규표현식 정리.md**](<https://github.com/nsap19/Algorithm_Java/blob/master/remark/%EC%A0%95%EA%B7%9C%ED%91%9C%ED%98%84%EC%8B%9D%20%EC%A0%95%EB%A6%AC.md>)
 ### 단계별 풀이
 
 - #### 1단계 : 입출력과 사칙연산 _  Finished
