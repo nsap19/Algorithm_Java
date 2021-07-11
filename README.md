@@ -315,7 +315,7 @@
     - 프로그래머스 코딩테스트 연습 Level_1
         1. [**문자열 내림차순으로 배치하기**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/etc/programmers_Lv1/Programmers_Lv1_2.java>)
         2. [**시저 암호**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/etc/programmers_Lv1/Programmers_Lv1_1.java>)
-        3. [**완주하지 못한 선수**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/etc/programmers_Lv1/Programmers_Lv1_3.java>)
+        3. [**[해시]완주하지 못한 선수**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/etc/programmers_Lv1/Programmers_Lv1_3.java>)
         4. [**모의고사**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/etc/programmers_Lv1/Programmers_Lv1_4.java>)
         5. [**K번째수**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/etc/programmers_Lv1/Programmers_Lv1_5.java>)
         6. [**2016년**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/etc/programmers_Lv1/Programmers_Lv1_6.java>)
@@ -355,6 +355,9 @@
         13. [**괄호 변환**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/etc/programmers_Lv2/Programmers_Lv2_13.java>) 
         14. [**큰 수 만들기**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/etc/programmers_Lv2/Programmers_Lv2_14.java>) ★
 
+    - 프로그래머스 코딩테스트 연습 Level_3
+        1. [**[해시] 베스트 앨범**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/etc/programmers_Lv3/Programmers_Lv3_1.java>)
+    
     <!--
     - 기타 코테
         - [**1번 문제**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/etc/CodingTest1.java>)
