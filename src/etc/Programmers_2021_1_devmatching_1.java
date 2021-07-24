@@ -5,10 +5,10 @@ import java.util.Arrays;
 
 public class Programmers_2021_1_devmatching_1 {
     public static void main(String[] args) throws IOException {
-//        System.out.println(Arrays.toString(solution(6, 6, new int[][]{{2, 2, 5, 4}, {3, 3, 6, 6}, {5, 1, 6, 3}})));
-//        System.out.println(Arrays.toString(solution(6, 6, new int[][]{{2, 2, 5, 4}})));
-        System.out.println(Arrays.toString(solution(3,3, new int[][]{{1,1,2,2},{1,2,2,3},{2,1,3,2},{2,2,3,3}})));
-//        System.out.println(Arrays.toString(solution(100, 100, new int[][]{{1,1,100,97}})));
+        System.out.println(Arrays.toString(solution(6, 6, new int[][]{{2, 2, 5, 4}, {3, 3, 6, 6}, {5, 1, 6, 3}})));
+        System.out.println(Arrays.toString(solution(6, 6, new int[][]{{2, 2, 5, 4}})));
+        System.out.println(Arrays.toString(solution(3, 3, new int[][]{{1, 1, 2, 2}, {1, 2, 2, 3}, {2, 1, 3, 2}, {2, 2, 3, 3}})));
+        System.out.println(Arrays.toString(solution(100, 100, new int[][]{{1,1,100,97}})));
     }
 
     public static int[] solution(int rows, int columns, int[][] queries) {
@@ -21,58 +21,49 @@ public class Programmers_2021_1_devmatching_1 {
             }
         }
 
-
-        for (int i = 0; i < arr.length; i++) {
-            System.out.println(Arrays.toString(arr[i]));
-        }
-        System.out.println();
-
-        for (int i = 0; i < queries.length; i++) {
-            int x1 = queries[i][0];
-            int y1 = queries[i][1];
-            int x2 = queries[i][2];
-            int y2 = queries[i][3];
-
-            int x = x1, y = y1+1;
-            int pre = arr[x1][y1];
-            int next;
-            int min = 100*100;
-
-            while(!(x== x1 && y==y1)) {
-//                System.out.println(x+" "+y);
-                if(pre < min) min = pre;
-
-                next = arr[x][y];
-                arr[x][y] = pre;
-                pre = next;
-
-                if(x==x1 && y < y2){
-                   y++;
-                }
-                else if(y==y2 && x < x2){
-                    x++;
-                }
-                else if(x==x2 && y>y1){
-                   y--;
-                }
-                else if(y==y1 && x>x1){
-                    x--;
-                }
-            }
-            arr[x][y] = pre;
-
-            answer[i] = min;
-
-            for (int k = 0; k < arr.length; k++) {
-                System.out.println(Arrays.toString(arr[k]));
-            }
-            System.out.println();
-        }
-
-
+        //초기 값 확인
 //        for (int i = 0; i < arr.length; i++) {
 //            System.out.println(Arrays.toString(arr[i]));
 //        }
+//        System.out.println();
+
+        for (int i = 0; i < queries.length; i++) {
+            int r1 = queries[i][0];
+            int c1 = queries[i][1];
+            int r2 = queries[i][2];
+            int c2 = queries[i][3];
+
+            int temp = arr[r1][c1]; //시작 위치 임시 저장
+            int min = temp;
+
+            for (int j = r1; j < r2; j++) { //직사각형 왼쪽 세로 범위 회전
+                arr[j][c1] = arr[j + 1][c1];
+                if (arr[j][c1] < min) min = arr[j][c1];
+            }
+            for (int j = c1; j < c2; j++) { //직사각형 하단 가로 범위 회전
+                arr[r2][j] = arr[r2][j + 1];
+                if (arr[r2][j] < min) min = arr[r2][j];
+            }
+            for (int j = r2; j > r1; j--) { //직사각형 오른쪽 세로 범위 회전
+                arr[j][c2] = arr[j - 1][c2];
+                if (arr[j][c2] < min) min = arr[j][c2];
+            }
+            for (int j = c2; j > c1 + 1; j--) { //직사각형 상단 가로 범위 회전
+                arr[r1][j] = arr[r1][j - 1];
+                if (arr[r1][j] < min) min = arr[r1][j];
+            }
+
+            arr[r1][c1 + 1] = temp; //시작 위치 임시저장 값 저장
+
+            answer[i] = min;
+
+            // 회전마다 배열 값 확인
+//            for (int k = 0; k < arr.length; k++) {
+//                System.out.println(Arrays.toString(arr[k]));
+//            }
+//            System.out.println();
+        }
+
         return answer;
     }
 }

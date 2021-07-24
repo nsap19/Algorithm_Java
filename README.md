@@ -167,7 +167,7 @@
    9. [**10844번**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/baekjoon_step16/Baekjoon10844.java>) : 쉬운 계단 수 ★
    10. [**2156번**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/baekjoon_step16/Baekjoon2156.java>) : 포도주 시식
    11. [**11053번**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/baekjoon_step16/Baekjoon11053.java>) : 가장 긴 증가하는 부분 수열
-   12. [**11054번**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/baekjoon_step16/Baekjoon11053.java>) : 가장 긴 바이토닉 부분 수열 ★
+   12. [**11054번**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/baekjoon_step16/Baekjoon11054.java>) : 가장 긴 바이토닉 부분 수열 ★
    13. [**2565번**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/baekjoon_step16/Baekjoon2565.java>) : 전깃줄 
    14. [**9251번**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/baekjoon_step16/Baekjoon9251.java>) : LCS ★
    15. [**1912번**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/baekjoon_step16/Baekjoon1912.java>) : 연속합
@@ -289,7 +289,7 @@
     -->
     
     - 2021 Dev-Matching: 웹 백엔드 개발자(상반기)
-        - [**행렬 테두리 회전하기**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/etc/Programmers_2021_1_devmatching_1.java>) -진행 중 
+        - [**행렬 테두리 회전하기**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/etc/Programmers_2021_1_devmatching_1.java>)
 
     - 2020 카카오 인턴십
        - [**키패드 누르기**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/etc/kakao_internship2020_1.java>)
