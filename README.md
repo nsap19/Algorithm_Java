@@ -14,6 +14,8 @@
 - ### 참고자료 정리
   - [**자바 컬렉션 정리.md**](<https://github.com/nsap19/Algorithm_Java/blob/master/remark/%EC%9E%90%EB%B0%94%20%EC%BB%AC%EB%A0%89%EC%85%98%20%EC%A0%95%EB%A6%AC.md>)
   - [**정규표현식 정리.md**](<https://github.com/nsap19/Algorithm_Java/blob/master/remark/%EC%A0%95%EA%B7%9C%ED%91%9C%ED%98%84%EC%8B%9D%20%EC%A0%95%EB%A6%AC.md>)
+  - [**해시 정리.md**](<https://github.com/nsap19/Algorithm_Java/blob/master/remark/%E1%84%92%E1%85%A2%E1%84%89%E1%85%B5%20%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%85%E1%85%B5.md>)
+
 ### 단계별 풀이
 
 - #### 1단계 : 입출력과 사칙연산 _  Finished
