@@ -370,7 +370,8 @@
         15. [**타겟 넘버**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/etc/programmers_Lv2/Programmers_Lv2_15.java>) 
         16. [**카펫**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/etc/programmers_Lv2/Programmers_Lv2_16.java>) 
         17. [**H-Index**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/etc/programmers_Lv2/Programmers_Lv2_17.java>) 
-        17. [**오픈채팅방**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/etc/programmers_Lv2/Programmers_Lv2_18.java>) 
+        18. [**오픈채팅방**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/etc/programmers_Lv2/Programmers_Lv2_18.java>) 
+        19. [**짝지어 제거하기**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/etc/programmers_Lv2/Programmers_Lv2_19.java>) 
 
     - 프로그래머스 코딩테스트 연습 Level_3
         1. [**[해시] 베스트 앨범**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/etc/programmers_Lv3/Programmers_Lv3_1.java>)
