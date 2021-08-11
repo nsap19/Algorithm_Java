@@ -376,6 +376,9 @@
         21. [**거리두기 확인하기**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/etc/programmers_Lv2/Programmers_Lv2_21.java>) 
         22. [**수식 최대화**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/etc/programmers_Lv2/Programmers_Lv2_22.java>) ★
         23. [**예상 대진표**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/etc/programmers_Lv2/Programmers_Lv2_23.java>) 
+        24. [**뉴스 클러스터링**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/etc/programmers_Lv2/Programmers_Lv2_24.java>) 
+        25. [**괄호 회전하기**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/etc/programmers_Lv2/Programmers_Lv2_25.java>) 
+        26. [**순위 검색**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/etc/programmers_Lv2/Programmers_Lv2_26_2.java>) ([**첫 시도**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/etc/programmers_Lv2/Programmers_Lv2_26.java>)) ★★ 
 
     - 프로그래머스 코딩테스트 연습 Level_3
         1. [**[해시] 베스트 앨범**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/etc/programmers_Lv3/Programmers_Lv3_1.java>)
