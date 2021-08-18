@@ -6,7 +6,8 @@
 ## 목차
 1. [참고자료 정리](#참고자료-정리)
 2. [백준 단계별 풀이](#단계별-풀이)
-3. 기타 문제
+3. [Gold 단계 문제](#Gold-단계)
+4. 기타 문제
     1. [기출 문제](#기타-문제)
     2. [프로그래머스 코딩테스트 연습](#프로그래머스-코딩테스트-연습)
 
@@ -286,7 +287,10 @@
 
 - #### 30단계 : 동적 계획법_ ~ing
   1. [**11723번**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/baekjoon_step30/Baekjoon11723.java>) : 집합(비트마스크)
-
+  
+- #### Gold 단계
+  1. [**1759번**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/baekjoon_gold/Baekjoon1759.java>) : 암호 만들기
+  
 ***
 - #### 기타 문제
     <!-- 
