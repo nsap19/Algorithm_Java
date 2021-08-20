@@ -289,7 +289,8 @@
   1. [**11723번**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/baekjoon_step30/Baekjoon11723.java>) : 집합(비트마스크)
   
 - #### Gold 단계
-  1. [**1759번**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/baekjoon_gold/Baekjoon1759.java>) : 암호 만들기
+  1. [**1759번**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/baekjoon_gold/Baekjoon1759.java>) : 암호 만들기 (완전탐색)
+  1. [**15686번**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/baekjoon_gold/Baekjoon15686.java>) : 치킨 배달 (완전탐색)
   
 ***
 - #### 기타 문제
