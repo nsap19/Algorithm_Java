@@ -7,7 +7,8 @@
 1. [참고자료 정리](#참고자료-정리)
 2. [백준 단계별 풀이](#단계별-풀이)
 3. [Gold 단계 문제](#Gold-단계)
-4. 기타 문제
+4. [Silver 단계 문제](#Silver-단계)
+5. 기타 문제
     1. [기출 문제](#기타-문제)
     2. [프로그래머스 코딩테스트 연습](#프로그래머스-코딩테스트-연습)
 
@@ -290,8 +291,11 @@
   
 - #### Gold 단계
   1. [**1759번**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/baekjoon_gold/Baekjoon1759.java>) : 암호 만들기 (완전탐색)
-  1. [**15686번**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/baekjoon_gold/Baekjoon15686.java>) : 치킨 배달 (완전탐색)
+  2. [**15686번**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/baekjoon_gold/Baekjoon15686.java>) : 치킨 배달 (완전탐색)
   
+- #### Silver 단계
+  1. [**1991번**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/baekjoon_silver/Baekjoon1991.java>) : 트리 순회 (트리)
+
 ***
 - #### 기타 문제
     <!-- 
