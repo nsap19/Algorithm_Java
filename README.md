@@ -292,6 +292,7 @@
 - #### Gold 단계
   1. [**1759번**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/baekjoon_gold/Baekjoon1759.java>) : 암호 만들기 (완전탐색)
   2. [**15686번**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/baekjoon_gold/Baekjoon15686.java>) : 치킨 배달 (완전탐색)
+  3. [**1068번**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/baekjoon_gold/Baekjoon1068.java>) : 트리 (트리)
   
 - #### Silver 단계
   1. [**1991번**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/baekjoon_silver/Baekjoon1991.java>) : 트리 순회 (트리)
