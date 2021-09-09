@@ -293,10 +293,13 @@
   1. [**1759번**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/baekjoon_gold/Baekjoon1759.java>) : 암호 만들기 (완전탐색)
   2. [**15686번**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/baekjoon_gold/Baekjoon15686.java>) : 치킨 배달 (완전탐색)
   3. [**1068번**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/baekjoon_gold/Baekjoon1068.java>) : 트리 (트리)
-  3. [**5052번**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/baekjoon_gold/Baekjoon5052.java>) : 전화번호 목록 (Trie 트리) ★
+  4. [**5052번**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/baekjoon_gold/Baekjoon5052.java>) : 전화번호 목록 (Trie 트리) ★
+  5. [**6002번**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/baekjoon_gold/Baekjoon1197.java>) : Job hunt (벨만포드) - 진행중
+  6. [**1197번**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/baekjoon_gold/Baekjoon1197.java>) : 최소 스패닝 트리 (최소신장트리)
   
 - #### Silver 단계
   1. [**1991번**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/baekjoon_silver/Baekjoon1991.java>) : 트리 순회 (트리)
+  2. [**18352번**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/baekjoon_silver/Baekjoon18352.java>) : 특정 거리의 도시 찾기 (다익스트라)
 
 ***
 - #### 기타 문제
