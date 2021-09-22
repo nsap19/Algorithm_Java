@@ -302,6 +302,7 @@
   1. [**1991번**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/baekjoon_silver/Baekjoon1991.java>) : 트리 순회 (트리)
   2. [**18352번**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/baekjoon_silver/Baekjoon18352.java>) : 특정 거리의 도시 찾기 (다익스트라)
   3. [**16198번**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/baekjoon_silver/Baekjoon16198.java>) : 에너지모으기 (백트래킹)
+  4. [**16987번**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/baekjoon_silver/Baekjoon16987.java>) : 계란으로 계란치기 (백트래킹)
 
 ***
 - #### 기타 문제
