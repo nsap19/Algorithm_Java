@@ -304,6 +304,7 @@
   3. [**16198번**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/baekjoon_silver/Baekjoon16198.java>) : 에너지모으기 (백트래킹)
   4. [**16987번**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/baekjoon_silver/Baekjoon16987.java>) : 계란으로 계란치기 (백트래킹)
   5. [**18428번**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/baekjoon_silver/Baekjoon18428.java>) : 감시피하기 (백트래킹)
+  6. [**1342번**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/baekjoon_silver/Baekjoon1342.java>) : 행운의 문자열 (백트래킹)
 
 ***
 - #### 기타 문제
