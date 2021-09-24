@@ -297,6 +297,7 @@
   4. [**5052번**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/baekjoon_gold/Baekjoon5052.java>) : 전화번호 목록 (Trie 트리) ★
   5. [**6002번**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/baekjoon_gold/Baekjoon1197.java>) : Job hunt (벨만포드) - 진행중
   6. [**1197번**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/baekjoon_gold/Baekjoon1197.java>) : 최소 스패닝 트리 (최소신장트리)
+  7. [**9465번**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/baekjoon_gold/Baekjoon9465.java>) : 스티커 (DP)
   
 - #### Silver 단계
   1. [**1991번**](<https://github.com/nsap19/Algorithm_Java/blob/master/src/baekjoon_silver/Baekjoon1991.java>) : 트리 순회 (트리)
