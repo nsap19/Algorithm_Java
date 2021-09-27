@@ -33,11 +33,9 @@ public class Baekjoon1405 {
     private static void dfs(int cnt, int r, int c, double per) {
         if (cnt == n) {
             result += per;
-            System.out.println(result);
             return;
         }
 
-//        visited[r][c] = true;
         for (int dir = 0; dir < 4; dir++) {
             int nr = r + dr[dir];
             int nc = c + dc[dir];
